@@ -22,7 +22,11 @@ jobs:
       - name: Dependencias
         run: pip install -r requirements.txt
       - name: Noticias y regiones
+        continue-on-error: true
         run: python collector/daily.py
+      - name: Normas legales (captura exploratoria no exhaustiva)
+        continue-on-error: true
+        run: python collector/el_peruano.py
       - name: Comprobar estado del observatorio
         run: python -m unittest discover -s tests -v
       - name: Guardar ediciones e índices
