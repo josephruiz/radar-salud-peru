@@ -1,7 +1,6 @@
 {
   "date": "2026-11-15",
-  "checked_at": "2026-11-16T00:24:33.685675+00:00",
-  "origin": "Primera recolección RSS; candidatos no validados",
+  "checked_at": "2026-11-16T00:29:38.434305+00:00",
   "status": "candidates_only",
   "candidate_count": 70,
   "items": [
@@ -13,6 +12,18 @@
       "region": null,
       "category": "noticia",
       "source": "Evidencia.pe",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "5131d2c0159449281a6a",
+      "title": "El papa León XIV preside misa en la Villa Deportiva Regional Ucayali en Pucallpa - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHQtbEJkMHBvWE5sOTZPN0l2YnRBMDdKN2NiRHBSaFVnblFudGdpY2N4c2tyY0JoUHpxY0w1TTdZZkJIV3lKZ3dlQnFhLWFFRUxWV1NsaXRkS0pKWkhLYW5XYjQ5SkVrOFpXMTNCbkR1b3NlT3VRRU9nbzlwR054RVpJdEwxZw?oc=5",
+      "published_at": "2026-11-15T19:03:41-05:00",
+      "region": "Ucayali",
+      "category": "noticia",
+      "source": "Yahoo",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -61,18 +72,6 @@
       "region": null,
       "category": "noticia",
       "source": "radio uno 93.7",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "336f620ff32eb978e32c",
-      "title": "Jenry Huisa promete destrabar vía a Chuquibamba – Cotahuasi - Evidencia.pe",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVVtN2Jzd2Z2LUYtbkIwY2NPb2g5eUFVcnpCdW94UFNpbVVmN1FjZkN6dWZOX29VMUJwbkw3SDFDcEVNQXVBWkowTFNVcVV1WWI4REhVaS1GNUxMSW96TXBPYmJYMllzcGo5MmdLaEw4T3RZNXpIQm1OekxaR0NvY09zb1ZpVnNwYVB30gGLAUFVX3lxTE41VW03YnN3ZnYtRi1uQjBjY09vaDl5QVVyekJ1b3hQU2ltVWY3UWNmQ3p1Zk5fb1UxQnBuTDdIMUNwRU1BdUFaSjBMU1VxVXVZYjhESFVpLUY1TExJb3pNcE9iYlgyWXNwajkyZ0toTDhPdFk1ekhCbU56TFpHQ29jT3NvVmlWc3BhUHc?oc=5",
-      "published_at": "2026-11-15T18:32:46-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "Evidencia.pe",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -474,18 +473,6 @@
       "summary": ""
     },
     {
-      "id": "a290bbb693f007f316be",
-      "title": "Presupuesto 2027: Oposición pidió voluntad de diálogo al Gobierno en el Senado - Cooperativa",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObFVJcVEtbEc0eWlUTXI1cW5RS1c1aHJMdkg4SU9zNm5HVG5NTUJSbm1zbDFSWWxfZ25uTlUyLWJXbWRLb3ZtRlpBOGthcTlRbTFDcmFPcXNRMnlqa2ZSS2ZVRmc2Z2gyOXNjU0paUi1yVWdwNXBQV0NaOTZycTBIc1RkX2d1YnR5OUY2Q3ZsWVpGWXBpc3dUaGR6THllcVFURmhVT3BLeTdBZ2EzeC0wWDk5dDF0SkxON3hsbEdUZFF3cklMLTVoeXNYRTFJWGpWMThjeU5Sd0tNRXdEZHZyLUVQWDjSAYwBQVVfeXFMT0p2MnlWYUU2RzdWOF8xWmR3bm13NENPNFpJUDdnQXN0dGRfMnBBZDVvSV8zWXBfM19qMkk1dC1SOHg1OE1HVjZIakI5RlJLNmJHR2lrY1IxVXVuc2MtU1ljd25FV3pFU2syOWo2N1BVYVRsaGlaSVJVZG9wNDV5ajhlSlpRUl84QmZaUGk?oc=5",
-      "published_at": "2026-11-15T12:41:00-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "Cooperativa",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
       "id": "4e3af85eebbece3bcfe8",
       "title": "Hospital pediátrico, vivienda y transporte público: las propuestas de Francisco Medina para Machala - Machala Móvil",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX1ZzcE44c2tjV2tVRTV4UVlKMVc3SWtqNnJ5U00zbVNGZll1Sy1yQXdFd0RWVXgtbl9rS2F6cnJ1WVpBMWNDZXhRSzNlSWxKLU11TGJxbXBPYVNORzN5X2dBOUw1clZTT0pJbXUxdTVFbmYxOTIyRVVzUERZTzBoNDZXZjlGRUtoYUhqRUxaS3dad2JJal9fajFwaVVUdU5RZ2FUcGFRUlZBcERaTk0zUXkxS1NnOEZRMEl4WVRXUlE?oc=5",
@@ -493,6 +480,18 @@
       "region": null,
       "category": "noticia",
       "source": "Machala Móvil",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "b26f0670e16654699129",
+      "title": "Callao: sicarios asesinan a niña de dos años, a chofer y dejan herida a embarazada - tvperu.gob.pe",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZnd0QVJRQVJHSkxNNnFjellPcTNFaUxDNkpsWTNMcFNzRnVfTC0waVg5eUYtVnViYktGYlF3dTRrLVFCNHlZeU4xWWxxYko2YlBhVUVEMmFPdk5JSTFtLUIwRVJaWUJ0dks3ZEZESzhGRGpUUXlNQUpzOGszRWJJQ3d5c2VvdklnOEg3ZkhmOGsxVlkxdHhvbEJSdUZjRkU0bmU4MXNqajZSOFhJUHhqYUNCdkpSZjRl?oc=5",
+      "published_at": "2026-11-15T12:31:22-05:00",
+      "region": "Callao",
+      "category": "noticia",
+      "source": "tvperu.gob.pe",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -529,6 +528,18 @@
       "region": "Cusco",
       "category": "noticia",
       "source": "Facebook",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "1426124b8f7718d32531",
+      "title": "Verte otra vez: Essalud devuelve la vista y la esperanza a 170 asegurados en Tarapoto - tvperu.gob.pe",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzFtVFJIZVhZcUl3WnpWT1ZXVWNyb3ZIUF81N2lNaGw2akFYUjVzZzkyaWpQSW12dC1VbDZMaF85em5BMUg1WVRZXzFiMlpOanJiQlFiMldrYTVGcEpRcHJ1ZnVGNHE1TWdmcmVJRWNJeTNsSksyV0lrU0NlSHRZT1dfbXlpLTdVX004Zy12UTNXWExQTmZPa2hvbGZPb3Aya19TTlRUT09OMGZSQVpEamlDcV9EdG1TOUkw?oc=5",
+      "published_at": "2026-11-15T11:27:00-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "tvperu.gob.pe",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -589,18 +600,6 @@
       "region": "La Libertad",
       "category": "noticia",
       "source": "Al Instante Chihuahua.com",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "6f42553ef2a209a3ee55",
-      "title": "Ministro del Interior anuncia que sicario vinculado al asesinato de periodista en Ica ha sido identificado - tvperu.gob.pe",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZGt5b3dIN0VVNFJieVdmRVY3WllTdURLdHBUTjAzUXAyZHZGY0xuQ05kejl6ZXFJWEV0Mk9JTy03UUxyaFBBTEFvanRrNXlLaW9IdzB2MDZ0M0oxcDVIN2EtV2MySy1ONS1xM1pnYXJzcVlOLXA5NmttMWtDQXZ0VDhqY0VlVDVxYjJ2VlR4MkFlWDU0cDl2YVBqWkpHM3FkT2RQSEZxSzNKTnJLM1R0cHdpWVhTVWFQbkNYQnlZZjZxdw?oc=5",
-      "published_at": "2026-11-15T10:16:00-05:00",
-      "region": "Ica",
-      "category": "noticia",
-      "source": "tvperu.gob.pe",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -798,6 +797,18 @@
       "summary": ""
     },
     {
+      "id": "34213a31398b5b4f06d9",
+      "title": "Ministerio de Salud refuerza la vacunación... - Panamericana TV",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTVTa1pBbl83U3Y3bktIQm5kMTczY3EwTGYyeUgyX3FWSEl3V25LUGZMX0oxUFRNSHFwNDNicVRVWVZUUlE0OE5hSk1EdGljaUFPZmFROFdpU1UyalVXWkZub19PMUN6UXpRenYxZ0R0anVQS3VIZEdrNTJCOGhNY01fR2Q3Qm9vZ1BXbVB0bWNhMGJGbWVjV0dCcDc3OWh00gGmAUFVX3lxTFB3djk2aU11SWRrTHJYeTNzcjc5ZGc2ektXM1U5ODVId25XTDZxVm9mdTM1MXZhWE1pYXlMZFhURnVQWjhHclhzdkhOSnlUbUNmS3FHcEVjbWZzX01BUldLbkxvUVg4aHVkOW1MTDVkOHluVjZwbGdpZXlpaWxJSjN0cjl3WTZlZ0dBYUY0Q2VVZ2tzTW5xZ3hqS1FwUkcyYXhaNWZOa0E?oc=5",
+      "published_at": "2026-11-15T04:08:01-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Panamericana TV",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
       "id": "1faf4a864cf62db72db4",
       "title": "Apurímac: accidente de miniván con músicos a bordo deja un muerto y varios heridos - tvperu.gob.pe",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbzM3Vjl0WHVISW5NS2FNQmU5RHJSUWRja0Zwc0hXcTB1TVdkVHk1SGotbU8tLWkzV3lmWl8zRUtKMjVXQm5ydGhyUk5tRnFXaXcyamJNSEFiSGpxTF9LZ1JfN2dSR0laVnprRHZjd3FPakQ2bHZZN1BBSGhkS2l4OHlkZEhpMDRkdFpZUjdfUzlOQUVQelBZekVYSkp5WWJFdEUzUFoybnA4X3l6Z3BRa0JOdFNUTkJGMXlaZnBMWTIydWc?oc=5",
@@ -829,18 +840,6 @@
       "region": "Piura",
       "category": "noticia",
       "source": "El Regional de Piura",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "ee034252c6df0d1eb8a2",
-      "title": "Cuatro donantes de órganos y tejidos salvan la vida de 19 personas durante el último fin de semana largo - tvperu.gob.pe",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUV93ak9HWFZldXB5bWNUU3lNT1NHYmN3SnVZeXZKRlZNY0VpSjJ4bDVCMUJPd3V0YW1EWDcwTzF6T1F3b1djZHlOaG9iZGNEa3Q2NURWUG5XMnVmTWxXeHdhYUtqNHZjMHFTNUZZdk4taVNMSEVVdnJfdmxYWTFnR2NXZkZJY1p1UUl3NlNlZ1B6QnU5ZEJJU3N6XzRldFllVnV0TXZjcGJiZmlHRDVmZGREMkVpTGxiQ0NRUFNkelc?oc=5",
-      "published_at": "2026-11-15T00:00:00-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "tvperu.gob.pe",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
