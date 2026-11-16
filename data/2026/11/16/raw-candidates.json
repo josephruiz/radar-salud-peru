@@ -1,9 +1,45 @@
 {
   "date": "2026-11-16",
-  "checked_at": "2026-11-16T21:33:54.548204+00:00",
+  "checked_at": "2026-11-16T22:04:44.156340+00:00",
   "status": "candidates_only",
-  "candidate_count": 81,
+  "candidate_count": 56,
   "items": [
+    {
+      "id": "abc43119c8c7e3277c99",
+      "title": "\"La paz y humildad que transmite son indescriptible\": las revelaciones del piloto que llevó a León XIV en el - https://geniostv.pe/",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSWtpdzJqblN5MlY5Y1RVcHBibFotcmdQdXlhZXp0dVhiWWNVSzJnekVtRFpYMFl2S09Ya01mOWpKNUZYV18tYWE5dHA4dlZRTWJ0VUhBLWtqTDlDVmFZV3IxeGM3YjFtWG1hd3hkVXRqTnNOZjZPaTN0cHVlRXo3WW5tai1YN09NSGREVkZqVWtFMXZYNFdacHRSbXpPOVRXRjliZHVQSGlyQi1scU5rZkJGeUZ0aUVLZkxoUF9vTnJvXzRpU0liQjVHT0ZlODR4R1NSQUtmbEF1andpTEE?oc=5",
+      "published_at": "2026-11-16T16:59:48-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "https://geniostv.pe/",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "40f0a48789ab0d4e0bb4",
+      "title": "Grave: José Reynoso Campos gestor territorial agrario del MIDAGRI en Áncash sin planes para enfrentar el fenómeno del niño - Noticiero Libre",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1dVZkI4NVptem91VXVLOVZKM0ZWTUxBVUZxZkRJdnR5NnUyYkx2bW10SE9JUGVnMkFNX1BFR25LQlo2aDNqVkxLOXJrT2JsNjdXWXA1aUJETnRoLWJHcmwwdjk2ZGpsTkpQeDJoZGNFYTdsSFczdFcxdVdJZkdaOUNBSExHb3J2R0htMFVRR2ZIdm9SalpkWjlNZlhmVVdBNHVr?oc=5",
+      "published_at": "2026-11-16T16:45:45-05:00",
+      "region": "Áncash",
+      "category": "noticia",
+      "source": "Noticiero Libre",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "41a96e94b28f6e715079",
+      "title": "Ica: un sismo de magnitud 4.5 fue registrado esta tarde en Nasca, el sexto hoy en la región - RPP Noticias",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ3EyYWVxRjd4R1ZNX1BHX3liVWhKSnBpLVV3X01YaGhaZjJLcHVzRHQ0RnZvblAyTDM3WVpZMFp1Z24waXdLUGpIWmdGRW0wcWx5bFNRVUpnaGdER2JBTzNzamFtRF92SEJOQ3NvRkN4cHZpVDIzbVR4NkNfZVlqVHFGWVJaQWJubUFNWUtVb0NpMHQyTWFKOC00LUExOWluMXJ4YVk4RjdiTUh0cC1GMG9iWDNiNXM?oc=5",
+      "published_at": "2026-11-16T16:44:14-05:00",
+      "region": "Ica",
+      "category": "noticia",
+      "source": "RPP Noticias",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
     {
       "id": "1345d9f42658dd96634b",
       "title": "Jenry Huisa presentó a su equipo técnico con miras al Gobierno regional - Evidencia.pe",
@@ -12,30 +48,6 @@
       "region": null,
       "category": "noticia",
       "source": "Evidencia.pe",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "babc10dd17c0d5833822",
-      "title": "Lima: paciente oncológica denuncia falta de pastillas en el Hospital Rebagliati de EsSalud - RPP Noticias",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSkFUcnpibjFWYW5DdUFadjJkV2JRQXhsRl82WkRkenNweUhfVjZscEpMbndKVG9XMzYxdEJZSW1hTmhOOEk4OWE3N0RhVjlfT1cyQlIwZU9BNWo4cE5ocE5FU05jQWNEQU9DVGZqQlpqSFNZT1ZnTVVubVBaWWdIZFVySnpUQTBROHc2bUxiWXJnWHVreEtiWEVnTkJ3RXlNOUgwNUZ5WTNlckRFY0hXbnBQWndVYmFQdkJqakZOY1RzbFB0ZGUtc0JjYmsyLVFJQ1pBN2Nvc18yMzJRTG1zV0hB?oc=5",
-      "published_at": "2026-11-16T16:07:56-05:00",
-      "region": "Lima",
-      "category": "noticia",
-      "source": "RPP Noticias",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "66d79eaacb718e7e7f4a",
-      "title": "Susto en el 25 de Noviembre: futbolista de CD Moquegua fue sacado en ambulancia tras desvanecerse en pleno partido [VIDEO] - RPP Noticias",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQOXlyN0UzRWFyN0g1M0d5QlVCeHNYMmhhemNuSU1xMkZJZHlKWnROVEdNeGRncHItWTN0clhPRzQyck5namt0NVpweVFUVnQ5OUd4SjNVYVVETHFKTnRSVUtzWWE5T3h6R21jaTg5ano4X2VjZ1VRRVRaa0pPbVE5T1N1S1RqZm9mOVJUcHFLaUk3X1R5c0RnS3JwZmRoZDVfQmlkQjI4OTV1TW5fbG81bHR1X2lSMWNhTWZpSVlZWHVKMTRlanhINTg3c1R0bk55dDd5a1E3aGlOX1hWczd4YlNjUkQweHV4azNwOTlMYzVkeDlNWGxWelliZUx1anhBNnNz?oc=5",
-      "published_at": "2026-11-16T16:05:52-05:00",
-      "region": "Moquegua",
-      "category": "noticia",
-      "source": "RPP Noticias",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -53,6 +65,54 @@
       "summary": ""
     },
     {
+      "id": "9a2ec7ef7e31a71f3b25",
+      "title": "Merab Dvalishvili pide la libertad de sus agresores: \"Solo somos luchadores...\" - MARCA",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa05vanlFM0swQVVvNnp4QVRKLU1ucmkwWFlwUGczczc2N3ZxM09jQzh3OFRQZGU0TVJla3RMaGZxeEVFdG1ORlNhNHRoWU5XR1JaR25LMGxDc05YNEw3WUwwMEQwVFgwTHVNUHpPNi0zMDg3SWVNRjg0ODEzNEVGM2dScEdPQklOZ3o0VmJxZFdPRUxUdUJqb1JQSGFQcHA5d2p2WHBR0gGmAUFVX3lxTE5rTm9qeUUzSzBBVW82enhBVEotTW5yaTBYWXBQZzNzNzY3dnEzT2NDOHc4VFBkZTRNUmVrdExoZnF4RUV0bU5GU2E0dGhZTldHUlpHbkswbENzTlg0TDdZTDAwRDBUWDBMdU1Qek82LTMwODdJZU1GODQ4MTM0RUYzZ1JwR09CSU5nejRWYnFkV09FTFR1QmpvUlBIYVBwcDl3anZYcFE?oc=5",
+      "published_at": "2026-11-16T15:25:14-05:00",
+      "region": "La Libertad",
+      "category": "noticia",
+      "source": "MARCA",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "007f41f21fc02113bc0d",
+      "title": "𝗠𝗨𝗡𝗜𝗖𝗜𝗣𝗔𝗟𝗜𝗗𝗔𝗗 𝗗𝗘𝗟 𝗖𝗨𝗦𝗖𝗢 𝗬 𝗛𝗢𝗦𝗣𝗜𝗧𝗔𝗟 𝗥𝗘𝗚𝗜𝗢𝗡𝗔𝗟 𝗨𝗡𝗘𝗡 𝗘𝗦𝗙𝗨𝗘𝗥𝗭𝗢𝗦 𝗘𝗡 𝗖𝗔𝗠𝗣𝗔𝗡̃𝗔 𝗣𝗥𝗘𝗩𝗘𝗡𝗧𝗜𝗩𝗔 𝗖𝗢𝗡𝗧𝗥𝗔 𝗟𝗔 𝗗𝗜𝗔𝗕𝗘𝗧𝗘𝗦 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jZER3NkpHLS1hbnN6TzVJMDFQdXRHckVvdDFLaDdMblRxWVZzMjF2UVhkbkZVUUxzZWFCU1phZXRVQQ?oc=5",
+      "published_at": "2026-11-16T15:20:47-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "YouTube",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "454b9f9c196795617532",
+      "title": "Trabajadores del Hospital Regional exigen pago de deuda social y de sentencias judiciales - Radio RSD",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlBtN2xPeEo4QUlKWHlaQ2VGb1lSYmFMd1BVNXNoVzkyaHBEb1ZWT3ZnNVlNck1mVXh0TEJkZmlTd2l5TWRmMlFwTnRXb1dzOUZTNXVPMjhxeW9acFpjRXJtTmdWclk0Y2ZqdXdvbG5jbHNiaXBqckRHajU4TWttdW1icDBxblVVbTFLcXl2WWFIa0ZwUFI2RzJrdkMwYVY4WElWRjFCRTZIZ3QxQS1jSEllZVY1b1l4amc?oc=5",
+      "published_at": "2026-11-16T15:16:37-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Radio RSD",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "3d6d49c43b219fa41b00",
+      "title": "Arequipa: hospital Honorio Delgado realizará vasectomías gratuitas - DIARIO VIRAL",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeU1ZS24yVUhhbkhHSHNNUWJYMlR6LXlaM0dVYVktUFUxVEJLZW5uTWhVQlBENkdXd2RPcWNyWnE4cVZwMzdzWjI4eFZ6SVBMbkIzQjFCMThlWGVPRUNQU3NpRm5hZ3Z0TVI0dVNzWlJkRk9oc2pNWG5vRFVsU25Ka1JsamRsQ0JSWUw2YXlXbHhoZkRVazhUZzdocS1SOWI4cEpiN3RKbEZDWXhHUkE?oc=5",
+      "published_at": "2026-11-16T15:11:22-05:00",
+      "region": "Arequipa",
+      "category": "noticia",
+      "source": "DIARIO VIRAL",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
       "id": "dd94c060af922c21c7f9",
       "title": "INFORME | Dengue en Áncash: Casma, una alerta para toda la costa - Radio RSD",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTk5hRDFjdHhCbngtaGsxSjRFTkVTTnNheUVYSVg0Mjl3NmV3cWh0b2h6S0RBYUlFSHVBSWo2MXVWSFdmS1dOd2Z2OTBSQmFxMmpPTU5nYWxzRG5LbzliZXdXSXYtQVdVTG9VR3A2cFRXbmVfQzdIaWR1bU53bEJmd1hqYnJ1SHdaZWctWXRMUC1MenhreWdNaDFQSE93SUJw?oc=5",
@@ -60,6 +120,30 @@
       "region": "Áncash",
       "category": "noticia",
       "source": "Radio RSD",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "b465ae3ceefbae3998ec",
+      "title": "INFORME | Dengue en Áncash: Casma, una alerta para toda la costa - Radio RSD",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZmtib0hFWTRIWjU0OTJBcjA3ZUZLTy1NR3pVanVySHRnQ0YxZkhkaEJSSmowc09UdWZZdEJNMWg5eUp1UjlkWV9CTEJZRnlwdVBsMDMwUWxETlRPcW9BMVRjTmhVTHhITE51WlR5YnNsNTZSNWVmcENGajB3ZnBydENlb2hCWHpyNlhOOUd2SGNGdWs?oc=5",
+      "published_at": "2026-11-16T15:09:32-05:00",
+      "region": "Áncash",
+      "category": "noticia",
+      "source": "Radio RSD",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "4aceaa12405f59631213",
+      "title": "Hombre de 38 años fallece por dengue y eleva a cinco las víctimas en Áncash - Ancash Noticias",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGJHZThNTTVRRU9Ld2JoV01MN3QtQnFmQ3huUnF2V0lhcGhEQ0F3Snp0WEJRMTdLU1JtRXNYeWtSWmY5SEgwRG54Y1dZTjRlSGRFWDJqcGZMM0FMbHBFMDlNeFBvRkNoZ3l2Tk41Uk1EN2Jta2dReGExUU9KaEJ3S3NFXzFUdHhqbGhNM3ZkQk5vMFRab1hxdE5La05BZFdDVkdSY0tKdUp6REFYNWRhaWhFS2HSAboBQVVfeXFMTUJtcmdHV0s5MFBHTmZNM3hhM3JHLXUtVnVYVUh3dGFaX0cwRUJId0NKMUZnTC1nc21xa1JQWXJyYk04Y0JyY2FmamdmWmJZdlh3S2l1aTdNNGtYODgzbTRzTHBDa3RySGQycFpVSm51OWFrQVVDbHZNY3Nsdlc4eDV0dnFDRk95VDZfczg4bnhETjQyUjFHWUdQN0hPMHFxWVMxd3RxT2JtVXFTYnRueTdLUFdJby1DeGl3?oc=5",
+      "published_at": "2026-11-16T14:58:34-05:00",
+      "region": "Áncash",
+      "category": "noticia",
+      "source": "Ancash Noticias",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -89,78 +173,6 @@
       "summary": ""
     },
     {
-      "id": "8f74ec8744c96907b060",
-      "title": "Presupuesto 2027: Minsa advierte que reducción de recursos afectaría compra de equipos para detectar y tratar el cáncer - RPP Noticias",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSTVpa0E2Z3hlUDJJVWZTYXJHTG9JQzZhZGc5UnpEajdJQ0tDMHhvLXVLN092ZHR5b1pwcW8yU25MTEpWZjdROUhwUW1vOFZsSzVmZWxLUDNERV94cU4zOGhPOS01T0hTRW93NnFrbEw4TThBV2xhelFXcmkwcGxYcGNka3BlRlRucEd6R1d1amc3c0p3REFDUlZnbnpyZmxWR1BzdjM3Sm04SjJhMXNuLVVIVlFacWc5cWVCRFc2MnNMVlZJdHAyZG93anVoS3AtMlpYM3BpMzJIcmJaTVlMN1p5eUc1Uzc0ZDA1WEVzZnQtcEJacDI2Tw?oc=5",
-      "published_at": "2026-11-16T14:51:45-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "RPP Noticias",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "e84b001b68c1fb426848",
-      "title": "Incendio en hospital provincial de Cienfuegos obliga a trasladar embarazadas y puérperas - CiberCuba",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpacDE3Sm9XWHo3YTNYRmlnTk92bUx1MEtlRmhteURGbDBiZDlKMHdqU2RyeDFKM1l4dWFhUGpBSlZDVzNUNFRDMk1HVjdNVTlhR3J5MGM5ZmprUENFa2ZDX3VhZ1NydVlzdHdiU1ByMVFManlhSFhMVVNrUDRTSXlnWGxPaWZjUGVlNERNSkFiZkw1NFQ0YVpHNUNLTnkzVWh4V2tMcGVoQ0lpYlQ1aFFMdXBrNUVpaFBCaNIBvAFBVV95cUxQNXpacDE3Sm9XWHo3YTNYRmlnTk92bUx1MEtlRmhteURGbDBiZDlKMHdqU2RyeDFKM1l4dWFhUGpBSlZDVzNUNFRDMk1HVjdNVTlhR3J5MGM5ZmprUENFa2ZDX3VhZ1NydVlzdHdiU1ByMVFManlhSFhMVVNrUDRTSXlnWGxPaWZjUGVlNERNSkFiZkw1NFQ0YVpHNUNLTnkzVWh4V2tMcGVoQ0lpYlQ1aFFMdXBrNUVpaFBCaA?oc=5",
-      "published_at": "2026-11-16T14:42:08-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "CiberCuba",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "b9618b036747730320f3",
-      "title": "Una mujer fue atropellada por un auto en San Martín y murió en el hospital - Diario Mendoza",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZWhiaXlXMVFRQklfSGFRdy1oQW01dXdPMDk5RHI2R2FrMm5NVEhPNU9SeFZ3X3ppMWw1RjZyTThkQTYyM2VOYUE3d3M1aDlSektQMXoxVHNJRTV2YUJsTTVXWFBhYURTT1hmaVJobkl0MnNBclhtOTZwcjRnbS1GMlpSTmtfOGM2WUFJZlpoVzhBcUhfUlhrR1R6RVdoM2ZKRWdROVFJUWxmUm800gGyAUFVX3lxTFBNQ0hMaU43ODRsdlg4U2cwVmdSdEMtdGFqUkx2ZldZdV9XUkFnRzVVZ3BReTFRYWo3OExnVExNZ1RET25rcjFXT1BrZGN6TmZMX0lVbHBCelpEMHFCVi11V3ZMMjR6RmF5U2JKbFN0VGtsdEl6UXF0elE0ZGhacjF5X0VKUHVLZGRCaXpPMWlhN2lra09BZUN1di1YRml4YnJwRDJUajBsZjlnVThhNlpWQVE?oc=5",
-      "published_at": "2026-11-16T14:32:06-05:00",
-      "region": "San Martín",
-      "category": "noticia",
-      "source": "Diario Mendoza",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "efeb2e62adaecc238ecc",
-      "title": "Contraloría: centros de salud de Tumbes carecen de pruebas para diagnosticar el dengue - Agencia Andina",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX3RKU095M3MyZjZBbVVXbFFrbXV3cWlZVmMySWtTNUY5TlRGalEyeHdvMXRTdHExQTNHWVkzZ1FOeThwZktRS3lDcTlXeTNTMW5WdmFuU2tSUk54RUpMS25DQjNjR0pJbzE5T1R5ZUh1WWEwWktkLXBoR2M2dF9RY0FWblA4ZzFFQjhjQkJvNnk5U1YyRFlDVHpzNkZ4UDJHM3l3cms0YnZGTXhTUkNhdGhaT2NWSDEwY194VA?oc=5",
-      "published_at": "2026-11-16T14:29:44-05:00",
-      "region": "Tumbes",
-      "category": "noticia",
-      "source": "Agencia Andina",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "914319da4c97fe26b9e7",
-      "title": "Hospital de Caldas reporta capacidad institucional superada por sobreocupación y altas deudas - Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTUVCY2d2MUVQRmxGbGQwWGk4X1YtQ2FXdXNKOGhwcTMwamtGTENUdnhFdHpXdnp3MmNQZkE4OGF4S3ZoQ0FnZzJUUmNlN0U2cEZTalY5WkZGaXdrMWtwLWNVQlpEdUlWWGdSbzJzZzlyemt4OU5oUXFLdHpYRnZ2QkJWWjhFMk5nSHpscHRaSFo5WUt2aXRIMllJUk9TWmQwOGg4NnpndVcyZVl4Q3lFSmJlWVRVYWxDbk55ZFd1aW81Vk1EdmF30gHbAUFVX3lxTE9HSno1UU5TRjFPNWVxX2lTLTFXWmJHSXZ5Ty1LYnJtbk51SDNhdWhUdHY5S3lYNEFWVUdJS2NWLWl4MkxjOEdGUmJqZkxNV0dicGlBTFpSWjQzWndxMzFLd1pldF9PWUExbjVRR3B2ZmVLVmgtc0hxWWRhTXp2X282QlRkWEVBRXp1RjJaeVJIWk1ydDJNZm5oc3o3X0xhSFVxM0tmSmU2TWxQZ2FUUGI1aTdKelZxT0dZSzhEcWtMdWg5WkltTkFIenpNSEI2RUdSOWJZbWE4NmFUcw?oc=5",
-      "published_at": "2026-11-16T14:28:48-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "Caracol Radio",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "ee2a9d46b7c20b7b38de",
-      "title": "Sismo de magnitud 5,4 reportado por el USGS sacude la región de Changuillo en Ica, Perú este lunes 16 de noviembre - Pulzo",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNG9lMjIwOERJZVQxY3ZxSVhQNnhIY0RXVHU0TkR0X1hoRUc0WlBvQm1VWEIxVngzYlFtOGd5UFgtbXZlNUhpcW5oVW1SZmw4SE5Zd1JaUFowYnVtbFY1MERwUWp6dkVwTko4ZHlKWjZKSjVoQWJYdTQtQVMtVGY2SlA3RlBZM1o0cnN1WmhDQWdLeTBNajYya2dUZlYxUWVYT09SYzhVSkFfdFlUVThhTWZHWVRlWkxHSkFv0gHAAUFVX3lxTE5JMHJJVm9wdmNxcnlRSjRxV3B0dWhhRkVBaEIxNGlQd25yWUZwM04zckVpb0xHMUxDMUtUenpIRThJVE04Q3FVSS1yT2pNTmx3a2tyQlZrWXBIVVZGNWhuN3JVenBMS3g3UWpldVFDVkdKaGtZRUhtclVLNlpWSDNHc3h1OVY0R2pISUZnanpjemVyd2sxMVV6SFBHcVFlb04xNm55VGNVOU1mdGlXeWJYRTZEREdVSzlwREhHdk5DMg?oc=5",
-      "published_at": "2026-11-16T14:21:06-05:00",
-      "region": "Ica",
-      "category": "noticia",
-      "source": "Pulzo",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
       "id": "54f5fc240b9a790b5087",
       "title": "León XIV cerró su gira sudamericana con una emotiva despedida en Perú y una prueba de salud superada - Perfil",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRTlQVjJTMFh2anVwb1RBSnAyUDRHcm5ocTlPSjEzTUdiMjA3YXo1RGRreGtTbkxZSDZ6ZTlEM05QMFlYM0lzX2Y3Vmh1aGd4QTE3blI5NnNvUWdCNGhYUnh0MVhHdHpqaU1LdXRYb0J2ZG55VXRCNEJPeVJwVVc5bzdkZ0xCNHJFVWgtUjNfN0lDSDdIaHFWNmwtVWlOQmVQTk9Wdk5LWVlyRmhsbnFqeGR2NGdiLWh0enl5b0RibFhKY2d4UU85ZldQUS00NlNSOUJFNVg1Zmc5bU1VcGc?oc=5",
@@ -173,49 +185,13 @@
       "summary": ""
     },
     {
-      "id": "5732b2d8369916c68864",
-      "title": "Julio Cusurichi pide al Papa León XIV respaldo moral por territorios indígenas - Diario Ahora",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0l3ZEdYdE5VbG5xRjd2MjNGOWpKc1BON2Z6bkJyRUFXdnlhUVRPUUJXalFFS2tiVnFhaHk2VE9vTF9rVDdfbEQ3M3Bfbnp6OTUwRm54SlNPM2dObG9QSTQ4YmxRaU9FdjBMdVhJbjgtRUZFQkhONlRIcFAzRlJ6TWsxMms1eFY2?oc=5",
-      "published_at": "2026-11-16T14:11:16-05:00",
-      "region": null,
+      "id": "1843fbcc8f55625a956a",
+      "title": "Áncash busca alcanzar las 130 vasectomías este año: lanzan campaña gratuita en hospitales de la región - Ancash Noticias",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSFkzendnbGpPa0dUS1h4RjBpbGpudWZ4dHA1b3NBaTdsTE5TbDFSZ0tsb0xnX3JSZ1Z1aExCSXZvOVNhc3lRSlV6U2VQaHhZSVpKbEFrWklxeUJGNnVNejBlT2JKLURnRGFhb29hUURDTVU2RzB6b3FKR2h0eTlVMTJ6VnNyTTF0YXYzQ0VnMF9RU05vNUEwanJVUmlWTXp3cmo2TG1LbUtja09kRHNaMkN2SGZyV3JIdllXT09ZWHFEbHdQLXpvTG94b2JTSXl3UllQZ2o5b9IB3AFBVV95cUxNY0xZXzRrbFoyNG1qVlVqMFRkckZjczBZcUJ1WUFlMHU1Z2ZBalRFY2M5S0hkSy1aZlhfTjVrbEtRTXFxcG4zTmVyQlhUa2tTeXBhNEF2UEU4bDdLRkpmXzdGX1ZjczdvOGxqel9qa2RHR3V0ai13NHJwZXZCZE9sZ2dFRVpkb2VqRTN4b0tHanhWZC0ybVBfRktzN0JjeHZIV1k5cjI0c29TVmdtbUJqYUVPSVE0bWVLbnN5ZWVRZVdyNHIwZWFfRmZySWF1alkxZzQ3V0JMWmZialJv?oc=5",
+      "published_at": "2026-11-16T14:06:43-05:00",
+      "region": "Áncash",
       "category": "noticia",
-      "source": "Diario Ahora",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "efd2611cda19093121f2",
-      "title": "Arequipa: hospital Honorio Delgado realizará vasectomías gratuitas - DIARIO VIRAL",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNGgxS29Qdk9oVDhkZ0VWLTU4UTZsbks4amRBamd1aFR1b3RzOEY5U1RCVFdxQ2hUVWdWMDMzWHVKbVd4dWN6RE02dFJ1WnU2OEk5YVItSmR2cy1VLTB2UGU3X3hHOEZLbWxHZ21wQmkzNzhxVlVqMTNMVXowZl9uNjB0T2gzTDBTUUw4LUhESXQwWTdXOUhlTzBtWllsLWN2UlE?oc=5",
-      "published_at": "2026-11-16T13:58:13-05:00",
-      "region": "Arequipa",
-      "category": "noticia",
-      "source": "DIARIO VIRAL",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "776342cc528c2143d648",
-      "title": "Piura: dictan nueve meses de prisión preventiva para investigado por extorsión en Las Lomas - El Regional de Piura",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTnctektkZ0s4N1Z0Y2hkLWd2TEhqRGc1X2ltNjRPXzlFdDNxSlNfNFgzZkJ6UFY1NDJILVJOWU5WS2lTVjBsdXBpN1NpM055ZkZlZExveF92ajBPWm9sTGxmbnhIcDVUZTM4N2g0VkY2RTlsQ1pSVGd1Rko1NWVBcnRwWHJZYld2RmZueFB6dWprSjBza1BUOWdPQmJmdXo4Ykdndk5wdS1KbDBEU1puN19OMkdCQ2N0QlllVkJxX3hnQjVWR2dDNlJCSDgtZ0FpX1VpdE12SXZNTUpBRnlwdjVxdkI1b1hyWmp4b01HNWdEQQ?oc=5",
-      "published_at": "2026-11-16T13:32:35-05:00",
-      "region": "Piura",
-      "category": "noticia",
-      "source": "El Regional de Piura",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "f378ac98223cf8ad9c16",
-      "title": "Corte de San Martín protege laguna Ricuricocha y prohibe futuros cambios de zonificación - Agencia Andina",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdkxWMFdLWmpfdC14X2Z0UTJlZFQ4cW9GOFBQMTRfMVJDeWY1OWFObDFZQ2tjOUU3NV9SYV9jTG9ldkNFRWxRSDdOQld2ZDRzSTM3U2JESG1WYWZMR29uU1A4Nm1zMnpkNnpkYXE3N29hd2tFaWNCMXZmQXdQazZrS1JENnIzaWl1MmM3OFpfekJndXRKOG5STmNHSXZxVDRDVzdPRE5PU1dDR1Mzb3FzZ1VHbHdILS0wcWlKSXVrcnU4RDhuMjlPbw?oc=5",
-      "published_at": "2026-11-16T13:28:00-05:00",
-      "region": "San Martín",
-      "category": "noticia",
-      "source": "Agencia Andina",
+      "source": "Ancash Noticias",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -233,6 +209,18 @@
       "summary": ""
     },
     {
+      "id": "136e81aa206679dee6b7",
+      "title": "Video | Cierre del paso de La Línea entre Cajamarca y Calarcá por trágico accidente de camión en el túnel Ocelotes: el conductor murió en el siniestro - El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa2gtck1QNENYZ1hlRUQwZWV2RmdIRGcwWno4Q3JIdERvNWJ0ZXMzaUZlVms2TFFqSmxTeWJ1VjE1ZEFvVHdtOWRXMTRwendiUXRXZTI3UUZLaU5COFlLSDhrWEs1dDQ1NkFaTjk4SWtPYzNudU5wRzY3RzN2YTBNVG12U1dyOFlXLUVVT1c4cFRCQWl5dF9MeF8yX2dFUFREYTRoQTNTOVQ0MjVPbDhyUWszX2RjbEI4VC01MmFGVlJ1azZ1ckZJYVRFOHhNRURrMWNMWlRZaS1OODJKMHZMdGY5SHNZVVpuQmFPaU9Vb25RRWJVcW95LU04Y9IBgAJBVV95cUxNZFhZSDZMcTZPUDYyMlBuQ0NmX0Q5OVZmSTZRQ1pCUUxNRnRESkRRRWdfRGFXY3kweEEtbTZPNmRpeDczanNGY2p6TVp3aUdIUDlUT2w0NzRId2JKRUlHeHV2b2JjQWF0ZU9IcW5aSHZoSlJhRWpqN2pQYjFVZTMtT0dRQmVuZnY1VnRYaVV3UzhCRTk3ZTZQNldvczFkN1R1YjZETDBOQjg1UGdBb2hGRzFIWVhjR1A2M0xHVXJsQzVCc3pTaUIwZTRObjZxRUFhanJnNXVRemdTaHFab1RJa1ZHS253T0ZGNXVnRWUzSWd5Vm1IaGtZYzNVNmVVdVRf?oc=5",
+      "published_at": "2026-11-16T13:20:04-05:00",
+      "region": "Cajamarca",
+      "category": "noticia",
+      "source": "El Tiempo",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
       "id": "175ea11bcae7932ef3a9",
       "title": "Keiko Fujimori se reunió dos veces con el hijo del ministro de Salud en Palacio: una durante la visita del papa León XIV - La República",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNDZ6dldzWFJ3NFlYbGlRNWJaeU5mWDhJc3RzY0VOMlhhc09EUVdxM1FZLTN6MGJicjhjMGZsYmtIdXJZd2tKVVBmS3FvV1JDYzY5Tmw5eGprb3RRY0RnZTRFOEFPX29SSV9Ub191dDRrUkdLbXZ2ZzVseUhtWkZfa0lWeVZ0NWMwTFdlOEo3QzNRUWZ2QVA0MUtxU2I5bVVpcEVYVnFnUjhGaFBJV3JFa25JUUlFQzA3clRZYUZsNmFNMU5jeDRIc0xfdkVVSDU4WFlnX1ZJSjRlREFBY1HSAeMBQVVfeXFMTWpTZWluLVM5Wk94ajVRVS1UV2psVzkzek9zc3BqR3AxVDR6SzllTk5FdHJhSElJUzBaSG1jbEI4MHFncGxUR1JSLU4xbldzbV94UGZ3QjRaSnhpRGFSRG1mVW1paVh6ajBHLTlkbFdBNVRMZ3UyaERPOFBYel8zdWNiSFBuSkhyek1LWTB6WTVneEcyeW8teTJqR1ZLbGhBcFZxRDlLbkVWUnN0YkdRZmR4VXA0VzJnRGZJX0NDNjNxeXpmLTJGdG5QckNmTE9DUjVGOGNTd2J3Z09Xc3BIOHRWNU0?oc=5",
@@ -240,42 +228,6 @@
       "region": null,
       "category": "noticia",
       "source": "La República",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "228a26a706f3ab7bb2e1",
-      "title": "Grupo armado priva de la libertad a dos empleados de un centro de rehabilitación en Culiacán - El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ3VlbWpXMXU4cWUyU3BpTjJRUmZLMk05aS1yTFZuNnZ5cGRLZDBwc2V4N3R4Sy1QOElOOFp1TUpMMnJubFFEQTNnejIzT043eVpack1aQlF5RmlIbkhBMldaci1WOTJLU0FqallReWlVVGdIM1FkRWt2WWVyR1JZbUtaUUkyYThiUkItc3ZuMTVheHlSTDRmSTlRNDE4eWx5bW9zSGxDbm1PSHpoZm4zd0FSQWpleVY2ZFdiV2ZJWEdIYjJMdVdac1NpQ0sxTnMtUy1faDRsVDM?oc=5",
-      "published_at": "2026-11-16T13:13:56-05:00",
-      "region": "La Libertad",
-      "category": "noticia",
-      "source": "El Sol de México",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "b2d434f9b7438f73c203",
-      "title": "Informe diario: cierra semana con 32 muertes violentas, 32% menos que la anterior; también se robaron 49 vehículos, 7 diarios - www.noroeste.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQN2hCc2lWd05OWFZQM3J6TzdZMDRDQ0oyVDZ5MzhHUG9DUnVlYXFlUWRZWE92V0xBdnY2UDVYSWNPWU5yNWZNVFlKdnN5VWpiVkgxV2Z5QUpLS2tQdm9ZcHFyaV9UZ214NVh1NXlrUFVZZVRnRDd0aGo2NnQxZ0pibmdCcXN3eWJWQmFwQmVjMUZyajlQTHJySGVlY3hyRzJ0NUtkWldrSXpvMzVNWVJaZmFtY3NHWjkxQjFvY2lTZ1hldk9wSlBsMFlKN2VZVElXYllfUDAtbzdPeWNUNWJjTXUtQklqTHo2UWs0Zzc4Y2ZBU3JsSUl0MGptd3c2UnljSnFv0gGDAkFVX3lxTFA3aEJzaVZ3Tk5YVlAzcnpPN1kwNENDSjJUNnkzOEdQb0NSdWVhcWVRZFlYT3ZXTEF2djZQNVhJY09ZTnI1Zk1UWUp2c3lVamJWSDFXZnlBSktLa1B2b1lwcXJpX1RnbXg1WHU1eWtQVVllVGdEN3RoajY2dDFnSmJuZ0Jxc3d5YlZCYXBCZWMxRnJqOVBMcnJIZWVjeHJHMnQ1S2RaV2tJem8zNU1ZUlpmYW1jc0daOTFCMW9jaVNnWGV2T3BKUGwwWUo3ZVlUSVdiWV9QMC1vN095Y1Q1YmNNdS1CSWpMejZRazRnNzhjZkFTcmxJSXQwam13dzZSeWNKcW8?oc=5",
-      "published_at": "2026-11-16T12:44:29-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "www.noroeste.com.mx",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "5feb0c3364ab0199d73c",
-      "title": "Papa León XIV sufre incidente con un objeto en el papamóvil - Trome.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN2pmU0lrajZVZ3lLTVg5aHlITDY4bHE4ZU9QOW9OeTBnbEduQXVDTFUyT0V3NGpyVnBRcGUyR1lvRGNKS19mN2RabDY2RjRhVmZGUTdvREhSTlNnLUxQYktMZjVEUzd3WTFHTFA2NzVhZDRCUXJlbUh0dHF4dmlJUUpXMUNRMWEwWXl1R25rNWpTdE5IQzR4YlNMVlI5d1F0TmlVM0lyMXJyZDJvYk8zalNGNnVtUDdiUURsQXlISWQzekdvbk9EandmYVc2WlVuNFpHdk8yTlp0THY3VE9YazhzeElpZUJDeVHSAeoBQVVfeXFMUDdqZlNJa2o2VWd5S01YOWh5SEw2OGxxOGVPUDlvTnkwZ2xHbkF1Q0xVMk9FdzRqclZwUXBlMkdZb0RjSktfZjdkWmw2NkY0YVZmRlE3b0RIUk5TZy1MUGJLTGY1RFM3d1kxR0xQNjc1YWQ0QlFyZW1IdHRxeHZpSVFKVzFDUTFhMFl5dUduazVqU3ROSEM0eGJTTFZSOXdRdE5pVTNJcjFycmQyb2JPM2pTRjZ1bVA3YlFEbEF5SElkM3pHb25PRGp3ZmFXNlpVbjRaR3ZPMk5adEx2N1RPWGs4c3hJaWVCQ3lR?oc=5",
-      "published_at": "2026-11-16T12:43:52-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "Trome.com",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -293,18 +245,6 @@
       "summary": ""
     },
     {
-      "id": "0a72ec95d68fc33a2ca4",
-      "title": "Lluvias intensas: advierten sobre infecciones oculares por contacto con agua contaminada - Diario Correo",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYVZGSG5rcExFS3J4N19HOGtUcndsZjgyZDhuYzhTY2FYeWpKSUp2UkktZVg3QjV3dC1FeU5xTlFoTW5pWUNsZW9JQnA4dEtGMVF2aWdMLVVNdEdLQUFZdU9VQURZb3plUzZSZGFPZ05lVi1yMU1kR1ZoejJkdnhrRDA5TC1oaXNTcU5ERkFuV0pnaTdMYktHWXlVM055NXZLWWc5TklhNFl6ZVllaVZiZk0wLTZNYU1xU1pSTFFfTEF6b2NYbnZxMUd6ZXBWM2NJMUVCb1gxd3TSAdgBQVVfeXFMT2FWRkhua3BMRUtyeDdfRzhrVHJ3bGY4MmQ4bmM4U2NhWHlqSklKdlJJLWVYN0I1d3QtRXlOcU5RaE1uaVlDbGVvSUJwOHRLRjFRdmlnTC1VTXRHS0FBWXVPVUFEWW96ZVM2UmRhT2dOZVYtcjFNZEdWaHoyZHZ4a0QwOUwtaGlzU3FOREZBbldKZ2k3TGJLR1l5VTNOeTV2S1lnOU5JYTRZemVZZWlWYmZNMC02TWFNcVNaUkxRX0xBem9jWG52cTFHemVwVjNjSTFFQm9YMXd0?oc=5",
-      "published_at": "2026-11-16T12:26:52-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "Diario Correo",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
       "id": "434840d8106777715b8d",
       "title": "En su recorrido al Callao, el papa León XIV pudo apreciar la inmensa estatua erigida en su honor [VIDEO] - https://geniostv.pe/",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNW03aERaMzlRMS0tSnRtVHppUVRTOUZGek1SaldhR19OQVdEaDZpTGdjZ1pocG1YU0lzcTlFdUVrdERvWkRhYXEtcm1wUW84VERhUU1sSkt2eGMxQXZGQ1ppWW03ZFBXU1ZtRzFwN0FMazlWbjdwMFUxdTB4b2QyMnVkc0oxbUFfUGFYTnk4RThzZ1B0UmdUaklFbUJFeGJXV01JYW5zN0RvejVtRHNST29feUxSUkZmUEpMdTBra2xreUx4WU5NaEk3Qmx1MEhjaWpkZ3lOeEY?oc=5",
@@ -317,13 +257,13 @@
       "summary": ""
     },
     {
-      "id": "71ed7a3c88db6086864c",
-      "title": "Orgalatín advierte que el colapso en los hospitales públicos sigue cobrando vidas #16Nov - El Impulso",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnFqNlF3TlAta0ZzX0pkN2J2cE56eVJIcld5YmRyQXBsNnVGYm11cERCZGFJRUtGLWZvR0NuSHA3dGJzWkhBaldMM2ZVYTVNME4xMVgySl9QcmMzNjhDS1FLTnd5TVU1ekNCR2ctU0FSREVvZXFIOERqaWdaVjJ2b0V0SVpick5SRWc1Q09ZMmRfMU1FQmhJWjBJSGJhY1U0aERjX01rbUdwazBReWpmZW5SQ3hzLUN4YUxLeG9xNHNkN3M?oc=5",
-      "published_at": "2026-11-16T12:15:00-05:00",
-      "region": null,
+      "id": "9647fea28901782a8ad6",
+      "title": "Papa León XIV culminará mañana su histórica visita al Perú con misa en Lima - Diario Ahora",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTE1aeE1EUGZxd1hicWV5dXdMcG4wV3hfejZOUnZUYzEzQ3E1WmRsZTFMNFhsaDhCWWhKQl9yTWxlSWVfSXdYMk50S1RhWjl6QWhtVFhsNlBWcEZYcDlnSDBla3FjUFQ1MFR5bVlRX29mbzhxSm5Ja2JYMWFDVy1fOEhUZi1QUm5nS0U0MWYwa0hXbmZuOHBlbnhjN1FCaExXVFZIcnpkNjg?oc=5",
+      "published_at": "2026-11-16T12:05:14-05:00",
+      "region": "Lima",
       "category": "noticia",
-      "source": "El Impulso",
+      "source": "Diario Ahora",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -341,13 +281,13 @@
       "summary": ""
     },
     {
-      "id": "1649f22cf4ce86e649f5",
-      "title": "Sofocado incendio en Hospital Provincial de Cienfuegos - Escambray",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZS1ZeUg5eHkzY2tQbDBmNWtiSFd4d2lIZ3pKZ21jWEllaENIWjVJTzVJbUlaZEpJYWVoWEQ2SjBNcE1uUEVTeEpLd1VwYTlzQUdsUWFWRC1pUHA3VjNKRm9sUW1HYjNzb2hRNUVxbWNZTldtM3AwYzI3T2RwbExKYlhOUW13LVBLbTdUdTR3?oc=5",
-      "published_at": "2026-11-16T11:47:27-05:00",
-      "region": null,
+      "id": "691e6d8e18a6c575363d",
+      "title": "¡Alerta! Brote de dengue en Tingo María - - | Página3 Huánuco|",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oUnp4M0RmOWVlX2JWbE4zXzNaeXhiRTV2WElpMVAtendOYk02WVowTzZ5aXpfakk4ZFl4NDhzX0t3LTJuM1dTdTgwZ3hkWU9zUEpVR3ZieHIycjBSUWcxS2pXS0NOdm9ScGVZWWYxRUtGTnBTUFNJ?oc=5",
+      "published_at": "2026-11-16T11:47:10-05:00",
+      "region": "Huánuco",
       "category": "noticia",
-      "source": "Escambray",
+      "source": "| Página3 Huánuco|",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -358,18 +298,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTnp4NjJtR0RSSUtkUjBYd1d2SXFZeTljc1I0c3k0UkYtRVZpR1hWNU1TckVsRkk0T0ZfSlVmUWxOQ09iTUhEdi1jeEtQZWZRY0M5dGpQWERUNjNmLXVocl9BTHN6OTFsZlQ0TkVLY0QxZzBDUnlYZ3VqSHhmTElleXBmWTZkQWRYY1JvYkppd0dZYkFMTThaM2g3aVVDLTQ2VTBmWWhVZTNDcEVHeFhGU1lyT2FOMkE2LTRLVkppVDJKcDRJR2RRWmZIVEV3MlhWNGJlUzV4Tkh6RXRkSW5CWmNST2dxcnVacmJZ?oc=5",
       "published_at": "2026-11-16T11:46:19-05:00",
       "region": "Ica",
-      "category": "noticia",
-      "source": "Facebook",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "50528f0d04701448a523",
-      "title": "🔵⚪️ ¡FALLAS TÉCNICAS DURANTE LA MISA DEL PAPA LEÓN XIV EN LAS PALMAS! Los problemas con el sistema de audio y los monitores impidieron que numerosos Las fallas en el audio y los monitores generaron inconvenientes entre los asistentes q - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVHQ1M1g4RFQtc2pSWnEwYkZ3eVVxLXFKaE1KaURCQmNXR0NydkFXclRCejBhazB1dDhIZl9mVF96c0lveWd0aTRFV05NUG5jZFhHVUxUWHlBOE9mUWlTR3g1aW8wVkZxaThkTmxzTDhLVmdTdjkyZ3ZpNnFKU1dpbWtPeGd2dHlGc0trdFdkS2ppUlFmemNtOXRlbkkxU3BJNllFbWVJLVloZkhtd3gyQXhqSmRUX1lkVmJqbDZYQ2dISFhMWnN4aS00VzdrMF9NeXV6YkJUN2k3SnZVMkFOVk5EQlphVFQyUDI1WE5PcmF2MjUt?oc=5",
-      "published_at": "2026-11-16T11:34:37-05:00",
-      "region": null,
       "category": "noticia",
       "source": "Facebook",
       "origin": "Google News RSS; fuente original sin verificar",
@@ -389,13 +317,13 @@
       "summary": ""
     },
     {
-      "id": "382740f41358957c9b28",
-      "title": "De enfermera a chocolatera: Carmen Adrianzén lleva el cacao blanco de Piura a premios internacionales - Agraria.pe",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEM2SUpFcXlNNHZxTlNyMGpXcGxFTGJyM1pJS0ZsM3NzcnBjVFNXd1R0eldWLTRWRlhkRWM2U1VNbXlOVzJCTW94bnNZaVRSNnpCOW9rc3VoeEdQRmR5M2lIM3RBNGdaeTZwaFRqckJua2c5SUw4VlQycmg4b2w3MVNnV3FuanQybFh4SXh1eElQRFdtUnZVNEFn?oc=5",
-      "published_at": "2026-11-16T11:06:00-05:00",
-      "region": "Piura",
+      "id": "3a30dc70a6ae3a97ee79",
+      "title": "Junín: Comuneros bloquean el puente Stuart y cierran el tránsito en el tramo Jauja–La Oroya - El Búho.pe",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFJBTnZvaU5YeXY1S2RRUzVJRU91OHB5UHdSTGhUSGlpekhMeDNOeGt1dWNMcDFPd01oYjU0ZkM4bWV2dFhkU0RFbjMwQ3VXdHcwdTA0bm95aDlXTHdRM0s3V3owNkhBaGtVVGVMbG5xRlBPYWYyZUhKY1U1clhQQ1FCMGpGV3pUaldURThGZFRUSzZhXzNfeHlaUmZxYkRnUFVBeGVrdS1XTzFqeldpUlBnTzBocUVr?oc=5",
+      "published_at": "2026-11-16T10:57:22-05:00",
+      "region": "Junín",
       "category": "noticia",
-      "source": "Agraria.pe",
+      "source": "El Búho.pe",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -413,6 +341,18 @@
       "summary": ""
     },
     {
+      "id": "4eb471d9df0a0d758a78",
+      "title": "El dengue no da tregua en Áncash: quinta víctima mortal es un hombre de 38 años - Radio RSD",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTdSU21lZ3ZJdnY5T0JoVDkxNl83LTVFcTNDcktyeXZHZmpmNFNDbktVVmM3WnlJWG1Fb1RGUFh1cE5MZmhMTG1SRU5INW00d3NKeGVyd200a0RFSHZITE9qTjUtR1NQRzhaa3F6U1R2ajJrOURmUU5lT0JuMVlhenBVdGxkNkxWY1pPam9kQjZDWFk3cS1QZVZBWlNaTDNCQ1htd1h5Zw?oc=5",
+      "published_at": "2026-11-16T10:47:32-05:00",
+      "region": "Áncash",
+      "category": "noticia",
+      "source": "Radio RSD",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
       "id": "ffdacc18736215439443",
       "title": "Sevilla conmemora los 550 años de la llegada de Isabel la Católica con un gran programa histórico - Diario de Sevilla",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlRaMVJtZjVJODFQMFVwZm5EMnBZcGF5TVY2QVplU000QmZMd295aEZDXzMtYnl3RU4zRTh5cjhkZE95a1dER2htcm5tY0lnUjNfWmIwWjAxdkhvOERpOXNhR1pkeWc2QWlLNVJYNjZLUDhlTkM0VE1aaThHRVNYMGw1LXhmVnpHRUpURktXNGc2V0FYelVzVnNGbUQ5RkJLVzBsWmRGMUIzN1HSAbABQVVfeXFMTVJJUWV0UkJ4Q0kyRFE3MGFRamNfOWpSV1ViVFlpSXlvbWhUbFAycW5Zc0tCYWgwMWk2UUx1TTYxcHp6MkVlOEpkU2lxUXRXVHB5VjF5aHpETExIcXdYTGduemtUN2lJSGdja3FmU2FFc3lkbG43VV90RDVPT1FqSGE4aGpLdFVKTlVRRW1OajAwSGtydVBtVDA0M0I1eXBTWW5Db19ZNXNQS0l6X1ZBdHg?oc=5",
@@ -425,18 +365,6 @@
       "summary": ""
     },
     {
-      "id": "b65ec27a5925ceec4bc4",
-      "title": "Fuego: El hospital de Cienfuegos sufre su segundo incendio en siete meses - 14ymedio",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMG1QLU5wMkxscjFCWUdTX1VxRTdXUXVpcGl5dkxQdmdHREgyR2YzMkdqYTY2aDUwU2ZnM1ltRzdtMTl2UDhKcEpNLTdLRTNTLWFneV94WFlaQ3JfQ0MtRndVdUwzZnphSkNEalQwVndib1lMal9jYnQ3SVJZV2x2cWU2eHo2QUdnbWYzT1JXUGnSAZYBQVVfeXFMTXBxdVFtM0V0ZTEtdnlEakstdzFleUc0aTduUEg5TlVFTHc3OFZfb0FjaVdnaTZNMWNnQTFQTGZYM2VCVEVRT3NmNnlFT0xocUtkeXdzTVFiVlFGZWluNnFqSXJnTXZEQkQ1R3FBTUhaTzZ6UUlfSVN5eC1mOXFlcU9uaUpMYm9HOUN2dUNPNUtsZFBURmF3?oc=5",
-      "published_at": "2026-11-16T10:32:51-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "14ymedio",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
       "id": "75ddb40377c1d1e8d0e2",
       "title": "🔴🔵 ¡Tenso momento en el Callao! El vehículo que trasladaba al papa León XIV frenó repentinamente en el cruce de Faucett y Argentina, provocando que el sumo pontífice casi se golpeara contra el asiento delantero. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 M - Facebook",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNM1BEMlNMNTE5b0d6UEstUmY3YVY5UklWeTJ1bjk2MUtBcXgtSHpWMG1NM0VYMHhEb2ZadmczT0ktdU5WbDJHVTF3ejZCcWlPN0taRzE5WEdIUDVQT3hieFlsTklvcHBLQnd6aTVHTjNxd1NpbHdzMWlGLU1MTDJZYVhRUjB0cmxvLUVXUGwwVWVwNmdxY3NCZ0lIQ01Lb2c1Q0hSbmdkODFSbWZwZzFlWEtteVJ6NmNQRWhDVGpLTDI1b1dtNk1tNXExTWFrd01STXlOdExBM29CMXBUSGFUalBVYWdDcE4zbkhMMDA4T2ZnQQ?oc=5",
@@ -444,18 +372,6 @@
       "region": "Callao",
       "category": "noticia",
       "source": "Facebook",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "529613f9e4eb4b3054d0",
-      "title": "Feria Perú, Mucho Gusto llega a Ayacucho con más de 50 propuestas gastronómicas - Diario Ahora",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LRHprcU5RZnM3eEZKS2pWX0hNS1l4aHc3M1N6VkgydFQwOTBodkM0UGUyRGl5RXdSNmV2YWE0RUR0YUhOOVZYOVJwVXlWNmwyQmd5dXB2QjlMeTdoVUkxZGQwM3JRZmFER3I5cUxNM3ppTTA?oc=5",
-      "published_at": "2026-11-16T10:23:23-05:00",
-      "region": "Ayacucho",
-      "category": "noticia",
-      "source": "Diario Ahora",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -485,66 +401,6 @@
       "summary": ""
     },
     {
-      "id": "356bd46d9195349a4a9e",
-      "title": "Turista de 44 años muere ahogado durante excursión en la Laguna de los Milagros - Diario Ahora",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaFlyNEpRck5nWUpsbzlEOEw5SG9udWRvcktxU3A1emt5WUhUUG9MbXZnSndsdkcyUlFhYnEzbDk2bnZvaXV0Nl9MSHV6Y2NCNzVpdjRUWDF5d0FvN2ZPdWxvXzF6WGFuVkNrQ2ZyekVhV3dYZXBtSmVxTENES1VtZ0JXVmVlZGF3bkQydXd5YWhXS0xQc1RSNVFBa1BlazMtWWFRQTFOTy1IYXFQRGdOaQ?oc=5",
-      "published_at": "2026-11-16T09:47:47-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "Diario Ahora",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "2ebda35443977a4e1a41",
-      "title": "Fuerza pública inhabilita 176 equipos de minería ilegal durante la Operación Amazonas Libre III – Ticuna - ELHERALDO.CO",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdkNtaEQ4VTFua1Nud28yT0U0N2JlVDlpbE5BNWE1YnZqdzJleTVkcmp3Z1lKODN6M3RDbXlnQm1IVEdURnB2bG1MNGFLR3NNejY5bUNldEI2TmVmQXNjVjdaWmNJZC0xOGxYRHVMN2tyV1BjRTU4bUoxMHhObzdXY0F0WW9DOXZIa2kwQ000SHFpcWUxbkVjQUpaYndydGM5eDRyZVptOVh0Z2dNaVRPSVpGb1BqMmNRM0N1ZFQ1cnM1T2t5OHhMakVMSERxTGprc1VURG1Iczg1ZXY4UEJ0M0dSR2ZNeGJ2OE5EamtwTUZEZHNCQUZGbHM3TkY?oc=5",
-      "published_at": "2026-11-16T09:46:18-05:00",
-      "region": "Amazonas",
-      "category": "noticia",
-      "source": "ELHERALDO.CO",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "6c72f537803e41bb32a1",
-      "title": "Piura: Bebé muere en accidente y familiares denuncian presuntas irregularidades policiales - Noticias Piura 3.0",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTZTZEo3djRUNWJYN1IxNEhZTllzQ3ZlSDRZOW0tOUZDZEx3Wl9uNDJwWUdTa0kyRXpuLU4xb0FMU0t2Q2hQQ3dDUmpoOGo4RGxkR2Rvck5wb3EyV3hlUkQ0clZwM05qaXFycFJmeHdMVWtZbmJZR18zSTBzQmpfTE9yZVJENy1FQWRiWHdjdTBHNDBDbHlCRnZxV2Y0V2d6RGNtTXdDYmY3dXB5ZVdnVHJVMnpucmRX?oc=5",
-      "published_at": "2026-11-16T09:40:32-05:00",
-      "region": "Piura",
-      "category": "noticia",
-      "source": "Noticias Piura 3.0",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "3a3c10023282c0c3d902",
-      "title": "Neumonía en Perú: adultos mayores son los más afectados y estas son las señales de alerta - Diario Correo",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZE5xWmgzeWQybUxESHVMTENtcmxXVk9Bb2NkTm9LNUxZUi0xSHJjd09Vd3RhZnNPa05sNk1JbkRBZ2JwOEhvWWI4OUJ1Y0dacjRzNnkyV3B2ZWFCeE5LM25qTTlZMHF5RzN6VDVMREZHaGtWRmluOUdYVUdjUUFCaWNVVlJCQWVmV2ZtYlpwVjU5RkFrME51a1lFd1ZZNlNHbHM1eGhacEtieDFmRVZWSHpmVFctbU9PcGpGMFc0aVdob1NGSlHSAdoBQVVfeXFMTm9pQ3ZuaWE0OVNFaHdsMHlTSHRjdlhHZFlVN1hQa1FOUGUteHBuQkhZeWJBZmJVYnkxdURIR2t4Sjdqd25fTkg0Tm93cFl5elBmZnNMX0oxNEhzZ1h2QmE2V195dDd6dUk0QVhvSEZMYlVfYlhjVGVObldPeEZVQlVSTmtlNWJVNUR1TDFHTlpIa2puSnJlZmk5dFM5bENkM3dkcDY0M1BrcDlMTi1xZU94TWFkUjk5VGUxc05pZHVwYXVjUG5qZzBtemZnc25UX2lVQU5fdTR0bWc?oc=5",
-      "published_at": "2026-11-16T09:10:02-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "Diario Correo",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "8baa75c773ff00ed21db",
-      "title": "Ministra de la Mujer coordina con autoridades de Ica acciones ante lluvias y refuerza lucha contra la violencia - tvperu.gob.pe",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWNwRndlZWdoTUU2VjhlNlBka0ExSmJiTWVVX3hRZDNlT1cxamVSOUFYbHVkMXlNZGlfVTBzV1pFVEV2QS1qS0JaQXR0YlpTeW12MlVMSWNtS1lrc3JBMnI0SXpXLUYtX3BYcUtqNVByWkpOSmk3ckkzNHV5NDBSQnNQcDlsMTNwZkpMdFdITFJaUWotRGJ5YTNPdU9xNEMzZ0lOcTJjTS1zZWd5U3FnVzdzZFdPaWhpeXExc1d2SQ?oc=5",
-      "published_at": "2026-11-16T08:57:00-05:00",
-      "region": "Ica",
-      "category": "noticia",
-      "source": "tvperu.gob.pe",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
       "id": "68c4065a3a9fe12fbcf6",
       "title": "🔴🔵El papa León XIV parte rumbo a la Casa de Acogida de las Hermanitas de los Ancianos Desamparados en el Callao - Facebook",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMm13dGVTeUlLenZ6LVBTMm1hbEgzT1JJV0VDM1dtX3Y5Q1lVdW80UUpQNWQ2UFBfYXFmOUxvOVlvUVRkVTZvS25kNzk5YWdWTS16X2h3V1pjaWppWkFwcVplMC11aXl5eVZTRUlyTTRXRzRWLVBvRExGS0padktXMlhfcWNMNTVuS050OWFBZ0xQZWlKUGZCSVRNR085Ujd4OVY5OG1zQlBsUkJRaFVRRGZkWDYyV3hlcGVPZ1M5ZTNMWEp2YlF4Zm9PSFV0Z3JoQUpDOU8takJfTy1jZ1V1ODJRV3Q?oc=5",
@@ -569,18 +425,6 @@
       "summary": ""
     },
     {
-      "id": "93470d48c68d5f85c838",
-      "title": "Una mujer de 32 años murió tras ser atropellada en San Martín - - 8 Digital",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzRnN0pDaldIOXdnMVV4WGpRYjVPQjNRc09QRmhORWRnb1JWaTdxWEREdjRiRkpXSnlWTEp2NS1kbldKczdoN0lkYmNWZEdSZ184RzVCbTVyT01yWkF0c01BOGtVZmxGUl9LV2NIQmlCTHpPNHcwVTJqZC05SUY3RVlfaVZJTzNfbUNIekFGNm1rOU5z?oc=5",
-      "published_at": "2026-11-16T08:22:49-05:00",
-      "region": "San Martín",
-      "category": "noticia",
-      "source": "8 Digital",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
       "id": "ec17a63d669daa6e25fd",
       "title": "Motociclista sufre graves lesiones tras siniestro vial sobre la carretera al puerto de La Libertad – El Blog - Howl.Link",
       "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFAyU0tTVVNUTDVKWjdJcjR3VnFKdXdaTjBYdGJyb1FyWmJMQVZjQkdxVUFYMFB3N1R4NkhB?oc=5",
@@ -588,18 +432,6 @@
       "region": "La Libertad",
       "category": "noticia",
       "source": "Howl.Link",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "8aa86b2a23406b1ae669",
-      "title": "Hospital Sergio E. Bernales inicia etapa de cimentación tras culminar excavación localizada - tvperu.gob.pe",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVGVrOTBZVVU4MjJTWnhtVkNuU1ZqejlETVFiQW0zYUVValk5bE8xZ3Vhc3RUR2xGZ1pLc1JuV052b0Y0MDhMV3laMmJhcV90STlfV1cwOWtaVEFLUzNSenByUmVjTzBydXE4eWs5TGhKdlBPMnUxOEFpSkNMbUpsQkd5M3NZS191ODNwdzU1QlVkQUZrcExyUWhnenJpLUdjZTl4WTZWNUFuOF8tclN2VW1jVWFYQUh3eFJtMjF3VQ?oc=5",
-      "published_at": "2026-11-16T07:45:00-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "tvperu.gob.pe",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -617,25 +449,13 @@
       "summary": ""
     },
     {
-      "id": "d10fd475552380d247be",
-      "title": "Gran festival de coros por el Día del Músico en Piura - Diario Correo",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNERZbHlNM1o0OERkS0o5VnlISlczY0dyRm1hQVQzaDVZbnI4NFE4VG50UVJNRC1XeUxRSDc1RUY0Tmg5VTZEVXVEczlvbXVYeHJXYWZwT0FJejlxZ1RkVUl2NGxJX19xZkNoUDA3RkNHTVlWdzZBQ2NVZmdESmNVZjkxaExHZUllZ3RSQ1p1b21kNzBCWHdqWHVSTFpSWnViRkHSAbYBQVVfeXFMTkJPZkZKOXFxUXVoUFIxTnFtVkMzNlBncUxsS2xlRnFhb1lzX0g1VnQyTk45Nmt3LTZFTVdHRW9GdDFKWk1wLVFhRkZ6R3p4WVB4Z0Y3WmszT181YjVuakRwemgtdktoQVNELU95Z1RtOTRxQjdqcWxNcWE1VmlFblBZdW9kVjdTbk4xcGEwYURiLXlIWWVyVHF6bHR1VzlZUjF5Q01jdDNCNFlFOXZ2dkxjSGI5aXc?oc=5",
-      "published_at": "2026-11-16T07:22:33-05:00",
-      "region": "Piura",
+      "id": "f3211f7f63bf6c8c05ae",
+      "title": "Accidente en el túnel Ocelotes provoca cierre de la vía Cajamarca-Calarcá y despliegue de equipos de emergencia - Pulzo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWG5BSDBsT0tBcFlRcS11RU5pZnFHM2tNa0o5VTlod21nU0Zta01RS0RRNzYweDJYTjJMWUFpSDFkaEltaHhDNUc1VDhhdjR6djZOejh2OWZtdFFmeTJkbjFKbWQtQmpUUTU2SFRsVmNTTXNfNy1ORkxjU1pHQ0ZheXNRRDkwMUp3bVVUeHhBbDFHN2JYcTBZV0owcTBONGcwbHdPQUZSWGpld3lOUW5IUnQwbER3ZHU4VUhj0gHAAUFVX3lxTE5sQkl6SUJUTFhfbUVUcGFrbWVCRDdCTVNaMDloVkc5b1ZmRnlZUUZlbjhDOFpSSkdSUVBzRmZiajBsbGlTeEFpZUVMbFZ4RFdIbVZHQmFHRnFqV09ZSThaWHdHUWxHdXNsTjV5VVhJam96MEdYemdsVkZ4QUJ2Tjdpa0M3LTFpa3JjUnZOZUVZOThFcjBaZzZrSEZaV2F2YldKTGY2TTRvYjY0c0d5VHpQLWdrVUNqcEg0VWNTX0lSMg?oc=5",
+      "published_at": "2026-11-16T07:26:25-05:00",
+      "region": "Cajamarca",
       "category": "noticia",
-      "source": "Diario Correo",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "baa742a75bea92b06585",
-      "title": "Una mujer falleció tras ser atropellada mientras cruzaba la calle en San Martín - MDZ Online",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaktDclRGa2dGRVJ2RDZ4M003OFhHelAtUlZfOFNDSF9ybnY2VDMxLW9scFVvbjRldEpPMmVaZDRUVzdndUlveC04TzhXRXBweGIwNmlzZG9lZkhiNmctUXlpdm9sRHFINnVqM0JiZkpBbHBIZ0JiZm01TkJNUlZkdDVxeHRiVkZqVGVIcFRtRmM2cURuQWhZdE5ZUnNVMWVDTHFOWjU0NjBNTXlUcUcwcHc4dFhqWHp3ZDV3cGx5djdOWGZkWGY2eFNkcmhPZVEtNnc?oc=5",
-      "published_at": "2026-11-16T07:18:43-05:00",
-      "region": "San Martín",
-      "category": "noticia",
-      "source": "MDZ Online",
+      "source": "Pulzo",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -665,90 +485,6 @@
       "summary": ""
     },
     {
-      "id": "9519f9c5fc622a6537c3",
-      "title": "Una mujer de 32 años murió tras ser atropellada por un auto en San Martín - Canal 9 Televida",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbW1YQnA0MVNLcEcwZGpXM2FHVjVwWXFFd2tqTC1DQ2hkSEQ0LVFTdWQwcnJrMlk5NDJVTnFDaWpsRWQwanNxcC1ibVg1WGViSkhVZkFoTGUyTmJWc2JrbGN6cXoyd2FTVC1OMXh2bXZOYzhyZlNEY0NxVm5aZmhYc3U1N0ttbU53ZFZYa21zWnZNdUU2a0VIMWhwZDlIeHNxOGp6RmpFamJqV0RWZjdNMm80Qnlodw?oc=5",
-      "published_at": "2026-11-16T07:13:35-05:00",
-      "region": "San Martín",
-      "category": "noticia",
-      "source": "Canal 9 Televida",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "ed59eed6ddfbd0eacad2",
-      "title": "Se mantienen cortes de calles planificados para esta semana por mantenimiento y bacheo - Diario El Argentino",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR0tRSXdHQllLOVFGTmVYOG1BQWt2R0h0U2pQUXVLQTZ5R1BsYTByNVZ2OXRkYzVXYzVLeXUyUGliYjlIWVZKaVpkXzVXOGN0RGROSXJWSVViOVNudWNTTVI4cHd1TG1jNV91THlkWWFWOHBITnZVUE9BSGVFV3QxVnhIbkJfLTZXNlR3Skk2ZEVlR2xURWU4NmFiaHJIYkd0ZDB0eWJ5MWstSWJRRktnMllhTVFzc1VFbHJTd2FlcGw1VGc1NTFjNlpMSzZLUdIBwgFBVV95cUxNWUFHd0N2N2wwLVdfd0dOXy05OWRLYTh0M0g4LUlMb09mdVZGN1o1dFQ3ejVnT1hEelV5TXZCWmNKWllDN0tmaFNrWWg2WEMyLUJuVkpiaDJHYnlqTGdlOTlsdVJwUlZUcGZjWVlxQ01OaHJKUGNLeUFURXJZQjRycmFYM0N3TVZWUzVUN1RENnhTZnk0Mmk1WmIwaUVlVFFla1pHdTZIYkpDYld4cmpqTlF0c2tHNXFDYW1RUWVWZ3lKUQ?oc=5",
-      "published_at": "2026-11-16T07:12:57-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "Diario El Argentino",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "f4a3dd7fc5be3f293b1b",
-      "title": "Tragedia en la carretera Yurimaguas – Tarapoto: Padre y bebé de cinco meses mueren tras despiste de mototaxi - Diario Voces",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMTI0cTVya0pKd28tZ2ltdkVjZ01zaWhlblVpVDhtbXYtb1FfMXJybEFIV2FmZVdUT3g0RFNWZEFSLUEycTdlSVJDOWVKWmZFalhFVWxFOGdFTlZ3MmRPUUg0UmF1RXpaNzBKbmlrekx2Vm1nMkQwSzdBbnNHMVdCY1lweHRVWTRDbzg1Sk8wZUk0dFZpRmowTDVZYUhQLUFiaXNkSDlDd2FOdmtNVnhIS3RaMWdXa1ZLY1JOOUVoMTlCaEE2a1RVSmpPM2Yzdw?oc=5",
-      "published_at": "2026-11-16T06:53:52-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "Diario Voces",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "c3452b8b0a72500a7629",
-      "title": "San Martín: murió una mujer de 32 años tras ser atropellada en la ruta 50 - Diario Mendoza Today",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzE3TXh5VW1zNFJFNThtMXY2cUpzNmhyckhIWGFyMGFIcGxOUU84ekFIV2R0bkpVYzVJNjdTNFdRVmstd1hmTFBWM3JDeGotZUdjZG43dGtIZl9yX2ZSbHVDdW1SUER6X0lkVWE2WmZHbFkydDhPdEFsTEZGbzVLTjh2MlI5enlGTlRZcERzNVpBUUJEei1NaUlCQkpnUVlWcmZ6V0RiR3E0TjBwYjNfWGh30gGoAUFVX3lxTFBZREpQemZ6RXR5SWs4UWVNSmNkR083V3ZjVzgtYnBTbHRUZXV2WThyWWxqY042Vlg1MUpaaTlIU3R6UGlMZm1DV3k2TVo1UktFMlJaY0xnYnhxRzEtWnk3NUdTelRZa1RXcFJWYWpxRjl4TTBuSHIxSWZhV3FDOW0wbEdjZUtHTzRCMFFRallaZlVWR0hzR09ITEplcVE0QjBLeGx2dndyTg?oc=5",
-      "published_at": "2026-11-16T06:39:51-05:00",
-      "region": "San Martín",
-      "category": "noticia",
-      "source": "Diario Mendoza Today",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "2c659a7679ddac6f6321",
-      "title": "Tragedia vial en San Martín: una mujer de 32 años murió al ser atropellada en la ruta 50 - MendoVoz",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMzlyZ0hYeXFHQ3BIcW51TXE3bVlGSklRMzFmaWhDRWlyRnZ0eWdGTFZuTmJRNGhfSVRBbzZ6VTFOLUgxUGxDY3pPYnZnMDVnMjVnTWZOOXdHMXU1S3QyU2ZGN1k5T1BjR2lsdXhJbEZ6UE9hZEh6TU5BNjhEczRKWU5uQVJhRFRyYkZuMUI2MHdsdG9DQ1dIaTEweEstM0UwcTlaWjNUZUtDQUlJbGlPWUMzR0FqbUhCQVA3dFZSLWdyN2oyQVlUSzZ4dHZlMzMyblJOQUxOWmhjbkpmWDlaaEhjTU8zVVI3eFFQX1lB?oc=5",
-      "published_at": "2026-11-16T06:34:30-05:00",
-      "region": "San Martín",
-      "category": "noticia",
-      "source": "MendoVoz",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "331ab8193d336f595e24",
-      "title": "CRUZABA LA CALLE en MENDOZA y la ARROLLÓ un CHICO de 22 AÑOS: MURIÓ en el hospital - Mendoza Post",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcmFIZGJtWExtdjFlQ3hqekZiRHJUYVI1ZXZ5dWVnZW03YUk5d0tVenVLTGpsbDhtY3NxQU9XWEt3VjVkeUpIRXdvek9UY090Nk1pWHdNbW1yazJySEdhLTNUb0o2WS1mVW4yWnBCLXRNQ25vZmtVNHZYM0NfekxmaWdaRHQwa2szdzRJcVdrRW8yMC00Y2hGWjJ3d9IBmwFBVV95cUxQcmFIZGJtWExtdjFlQ3hqekZiRHJUYVI1ZXZ5dWVnZW03YUk5d0tVenVLTGpsbDhtY3NxQU9XWEt3VjVkeUpIRXdvek9UY090Nk1pWHdNbW1yazJySEdhLTNUb0o2WS1mVW4yWnBCLXRNQ25vZmtVNHZYM0NfekxmaWdaRHQwa2szdzRJcVdrRW8yMC00Y2hGWjJ3dw?oc=5",
-      "published_at": "2026-11-16T05:53:02-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "Mendoza Post",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "f1cefebc0f9f1bfb0e93",
-      "title": "San Martín: la embistió un auto al cruzar la calle y murió - Sitio Andino",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQUpYVVdORTZmLWo2ZHZpMDBXOGY4MFJMdVpiWjQ0ZEdLQlZwU0FBSFI4R0lCOTB0ZG9rMzRQcjRXUWdYQzN4V0VubFBjOWxUSWJsSVdPOVJ3aWp2YUhfdXpSMnFIZnZyMUtxT0NsTmtQY21xeDhUUFVYN2xqdTVEUXlXa2ZQUnR4Mzd5NTJGbXpCeDljTi1vbEFnSFlHdVhROW5zZTJBSVZCMnJu0gGyAUFVX3lxTE41SHpXOFhOMnFQczQzMUpjMWZxdUM4ZXdjaW83Qy04d1VCbU1BclNrWWwxTk9ibW5oaW5WN1hDU3p0ZlJRSFlTMkdmQlQyUjVjbkFNLXRtWC1la1RaMWtGQnVRWlJxX1plUi1vWHNENFh4dkRGVUVWR2JaQjZLUVpjclJmS0ZMVWE1aUZ1TzdnLXBENnh2UXJRTVNGV3Zndnhobm5OblVxRVVGNjZQX3NidlE?oc=5",
-      "published_at": "2026-11-16T05:40:00-05:00",
-      "region": "San Martín",
-      "category": "noticia",
-      "source": "Sitio Andino",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
       "id": "3a5b2b5283e610b573a8",
       "title": "El Niño: efectos en salud empezarán antes de lluvias, pero sector tiene estos problemas - Gestión",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLUkzMzVUc05ZM2xSZk4tLWJ0dEcxMG55dGhKTkgtUmdKclFmMk5qQXRmWTIyM3NnWUZuSnczX0YzWmVpSUoyWmRhYVhMcnZyTERMMjR5ZmVCTVNaSC1LQWhFc251Njc4cnh1YmJPOE9KZ3BqMWViMWUtdjBSaXJlUy1mQUZkUjhQT3V2bUFiUVNDOVU1TTlIeDI2Zzg1RkFFS3RGRUN5WUlhMmJkaFE1b0F3c0NGYlNmcU95YmpYRVdTcGl1ekNuVnVZWFlfcklOTHZaNVdsN09HZ0Ytemc?oc=5",
@@ -756,30 +492,6 @@
       "region": null,
       "category": "noticia",
       "source": "Gestión",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "2b340fbaf312ee8c005b",
-      "title": "Napoleón Becerra: heridos en accidente son trasladados a hospitales de Lima - tvperu.gob.pe",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaUVvLXVFcjdDR1pBSjJ5Y2JWTGNvR2RfVWFxQ21LWFlPUDR4cFhtUnlMSGNRNmFSM3NFeVBXSnBjd05DTnpWd3hyeWc3M2VDcEFpaHhyS3c1X3ZidW5rNDA1NGx4MTJmQldlM0xLekZjZC1OVk16ZWZmQ3BlS3JiQ2dXVmRtVkFOc1hLU2N2emRKc2l4cU1KWE54UnVqMFJhODFVSEdNTWttTF93dENjcWF6dFg5SmRDVGc?oc=5",
-      "published_at": "2026-11-16T04:48:47-05:00",
-      "region": "Lima",
-      "category": "noticia",
-      "source": "tvperu.gob.pe",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "0afd9fd2619b35101aa3",
-      "title": "Identifican a dos hombres asesinados a balazos en Huariaca, Pasco - Diario Ahora",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUU5tNGw3U3pQODE1UmN3UDFUYVM3OXN4ZlpQTGVqUDd1cVcxM1otUEhKb1hqSWJZTENLMDgySUg3c1hScmtVbHhRN0VuSmFCQ0dvLWZrdXJWUkJELVZxMWpHN0k3YzFwMHF1NEYyOWhsNWoybzFPTnlDRWs3UllXOXAtSndlWnRiaUI1X0U2cnRIRDVJdTNheHcxbGQ?oc=5",
-      "published_at": "2026-11-16T04:01:51-05:00",
-      "region": "Pasco",
-      "category": "noticia",
-      "source": "Diario Ahora",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -797,6 +509,18 @@
       "summary": ""
     },
     {
+      "id": "bcdb464482de88dc39fc",
+      "title": "Trabajadores del Hospital Regional anuncian plantón para exigir pago de sentencias judiciales - Diario de Chimbote",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSkVTZFg1UlBvMDF0R1Y5bFZQM3IyWVp5QUxJQ3dqejJUd0lwdzA0UkJVUktGbTh3VzE3X3BscnNvQy1CSXIzYlZ6TjBhQXVWVUFDSnpFYjhPLTk4NnRqakdnanNHamFkaXdFNGV6WWJSR1Bqd1FaUWZUTGZTVFBrZjN0eld6YlBvN1k3eXg2YkpHZ2lxd1paYVNBQ1NLMEh1dWFIUTg3eHBfMmhWT2MtVFF2UkdlbUE1VnpWcFVJMkktRjI0X1o1N3VtcmZkc2s?oc=5",
+      "published_at": "2026-11-16T02:17:44-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Diario de Chimbote",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
       "id": "fd0796c300c6e0a1714c",
       "title": "Dos menores resultaron heridos tras despiste de vehículo en Juliaca-Puno - Pachamama Radio",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWoxbjdnVGdIQ2UyMDlhUWJhRWZYN2tVZTI1QTJJeWthX0YxZlpSbjVrQmMyVDNkdFgwMS1tcW9VUk1HcWdPSzJPWEFYMjJ5QkhqbjlVRGdZZ3NodVNUSFE1Yms5QlZtd0xHVk56UF9hMVRhWEQtbm5VWURmRzhzVHlINWQzVHNkcW1kQUo2c2ZJakhaWjNNTlc4N2lTcnlxeXc?oc=5",
@@ -804,30 +528,6 @@
       "region": "Puno",
       "category": "noticia",
       "source": "Pachamama Radio",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "5bdd9dbc78bd1029a049",
-      "title": "Avena obligatoria, relojes en hora de Detroit y una revuelta obrera: la utopía fallida de Henry Ford en el Amazonas - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQazBibGNIdHluS28wTzJvUWxTZW5Sd2RZNHNlcmpIVXg3QjRIcHF2SHZ6aFpqMzRlUlMzbXJnSlh3Rk5IUW1fUE5talQtSkE4OHRyNTE1eFlCeDFDTmNPdkhSVXNiWUZwNUNMZnNSZVR0ZzkxM0xzVGlwb2NWcnl1T0NRaW1pZnJaUFpKMDdzcUxHZ19BS045Wk42bTVRRGlFWno0dWl4WjFwNk9tQVBkTVpJNzJ3NDVvcGJzSFA5a1R0YV9QV095blRIeXlGVHcyX200eDhCb1VEdzN1T0p4WC1jMk5LOHFpcnJmNnpJUC3SAYsCQVVfeXFMTXZKLW9jcFVBNDNFZk1DOFE4QkdPZjd3SzFjNmxmYlpCT1RSX1BZbDZSdEVlZnlwbk5RMnRabkJiOC16V3FoZGZCOVAxYVVuMlB3WGVhNWN1b3JXZHVYZ1RIQ052bjRCMXZQdVhuajFxWWQ1dUNEQnZ5Q3hUM1BEeGdNeUhUTURCTWExVjVzZmhOcGxZOXpiSXNfeGpLYTF1aUF4Uk9vVUhXMFFBT0ZsVmhBZ3Q5enJhelNBX01MM3VGYnB5ZU1waGwtSUhnTXhEU2I1cGc4X050WjM3ay1pVllOd00tS2JGNklIcC00UjZGb3JSNXBrbmJaSndlRm13Vy1qcnZpWmVoazBz?oc=5",
-      "published_at": "2026-11-16T01:27:00-05:00",
-      "region": "Amazonas",
-      "category": "noticia",
-      "source": "Infobae",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "a8a2236307f22bd37639",
-      "title": "Combustible eleva costos de obras en Juliaca y dos proyectos quedarán pendientes - Revelación.pe",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlR6MGNxOFJOM3F6LUF0cU0wNjBfdGhDenF4Sjl2Z085OWpvS19XRXBycHFrOWZ0cjdGcUhLcWwtZi0tSXI5N183T3BYOGhrTmZOc3QwV1ROY19ZOXR2Nl9xREozd3d0LWtRNi0wd2dHb01PQnJ1RHNKZVpYWmJsWTJVeFNtMlZFSzBLd2JpQV82VUtIQzc0b3ROOWs3VFpzajFuaHZrWGt3dTZVTzJnTDliRllzQlBReC1WSy1MLUhNOUNocENzWA?oc=5",
-      "published_at": "2026-11-16T00:45:35-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "Revelación.pe",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -864,18 +564,6 @@
       "region": null,
       "category": "noticia",
       "source": "Panamericana TV",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "103f2cca04eab33adf1c",
-      "title": "Piura: Policía recupera miniván arrastrada por la corriente de la quebrada Río Seco en Salitral - El Regional de Piura",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZkhOT3g0b1JIck02VU9uSHFZbUt0X3BySjZwb09zWEwybUJOUEdjTlFkN0tWc3d6SlpwdGZKVzdFeVpmeFFWb1AydDhoVUtqaWxlS3RSQkFFN1Q2SlhkRUVhaFhLaDJkMldEUmhzbEZZMlk4TklFZlJENXlpeXo1V3JfRDF1Q0tvT3J6VWMyOVJvdzMtSVhYZU1JZ1B0bDExTENIajFjVzZxdjVmRWZXb2FrRHdHTHl0SzZ5QzdqY3ktUmdGS2EwSUtBWkNrc0l3WEx6M1JCSFJQdktvUzk0WDBaSWoyNXdBYTVWQkNjU19HMzQxU2g4?oc=5",
-      "published_at": "2026-11-16T00:22:31-05:00",
-      "region": "Piura",
-      "category": "noticia",
-      "source": "El Regional de Piura",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -972,6 +660,18 @@
       "region": "Moquegua",
       "category": "noticia",
       "source": "Revelación.pe",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "184b93807b7219e90350",
+      "title": "Niña de 7 años muere por dengue en Tingo María y Huánuco supera los 1.358 casos - Diario Ahora",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nWG11VWFkVDhGaWZ5THZacXZxX2JhZnNuaExYdG1UTm84bF96MkdkZ2RYRVBaRlFTeDY5N2FBUm1ib05rUHdSMW1OMGdwbkNXMm9vbjVVWHAyX2YxN2RIeHQzbi1IbW1xMjNjbjZpak82S3A1MTFESEdJOGI?oc=5",
+      "published_at": "2026-11-16T00:01:33-05:00",
+      "region": "Huánuco",
+      "category": "noticia",
+      "source": "Diario Ahora",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
