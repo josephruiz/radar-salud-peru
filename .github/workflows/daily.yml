@@ -1,5 +1,11 @@
 name: Recolección diaria
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'collector/**'
+      - 'tests/**'
+      - '.github/workflows/daily.yml'
   schedule:
     - cron: '15 12 * * *' # 07:15 America/Lima (UTC-5, sin horario de verano)
   workflow_dispatch:
