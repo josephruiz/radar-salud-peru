@@ -101,7 +101,7 @@ def main():
     except (OSError,json.JSONDecodeError,TypeError):existing={}
     for row in data["items"]:existing[row["url"]]=row
     ordered=sorted(existing.values(),key=lambda x:x.get("published_at",""),reverse=True)[:8000]
-    search_file.write_text(json.dumps({"updated_at":data["checked_at"],"limited_to":8000,"items":ordered},ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+    search_file.write_text(json.dumps({"updated_at":data["checked_at"],"limited_to":8000,"items":ordered},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
 
     print(json.dumps({"status":data["status"],"records":len(data["items"]),"errors":len(data["errors"]),"date":args.date}))
     # Never claim completeness; task fails if all sources fail.
