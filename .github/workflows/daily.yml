@@ -1,0 +1,36 @@
+name: Recolección diaria
+on:
+  schedule:
+    - cron: '15 12 * * *' # 07:15 America/Lima (UTC-5, sin horario de verano)
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: radar-salud-daily
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Dependencias
+        run: pip install -r requirements.txt
+      - name: Noticias y regiones
+        run: python collector/daily.py
+      - name: Comprobar estado del observatorio
+        run: python -m unittest discover -s tests -v
+      - name: Guardar ediciones e índices
+        run: |
+          git config user.name "radar-salud-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "datos: edición diaria $(TZ=America/Lima date +%F)"
+            git push
+          fi
