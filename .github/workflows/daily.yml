@@ -7,7 +7,8 @@ on:
       - 'tests/**'
       - '.github/workflows/daily.yml'
   schedule:
-    - cron: '15 12 * * *' # 07:15 America/Lima (UTC-5, sin horario de verano)
+    - cron: '15 12 * * *' # 07:15 Peru
+    - cron: '15 19 * * *' # 14:15 Peru, segunda oportunidad de actualización
   workflow_dispatch:
 permissions:
   contents: write
@@ -27,6 +28,8 @@ jobs:
           python-version: '3.12'
       - name: Dependencias
         run: pip install -r requirements.txt
+      - name: Diagnóstico de fecha local
+        run: TZ=America/Lima date '+%Y-%m-%d %H:%M:%S %Z'
       - name: Noticias y regiones
         continue-on-error: true
         run: python collector/daily.py
