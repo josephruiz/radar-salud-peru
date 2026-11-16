@@ -5,7 +5,8 @@ legally verified without human review of the source and legal text.
 """
 import hashlib
 import json
-from datetime import datetime, timezone
+from datetime import datetime
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit
 import requests
@@ -32,7 +33,7 @@ def main():
     except requests.RequestException as e:
         items=[];status="failed";message=str(e)[:250]
     root=Path(__file__).resolve().parent.parent
-    now=datetime.now(timezone.utc)
+    now=datetime.now(ZoneInfo('America/Lima'))
     path=root/"data"/now.strftime("%Y/%m/%d")/"el-peruano.json"
     path.parent.mkdir(parents=True,exist_ok=True)
     path.write_text(json.dumps({"checked_at":now.isoformat(),"source":SOURCE,"status":status,"coverage":"not_verified","message":message,"items":items},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
