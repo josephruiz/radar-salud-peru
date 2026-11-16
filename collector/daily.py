@@ -8,6 +8,7 @@ import hashlib
 import json
 import re
 import time
+import unicodedata
 import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -45,6 +46,33 @@ def region_in_title(title):
         if re.search(r"(?<!\w)"+re.escape(region.casefold())+r"(?!\w)", normalized):
             return region
     return None
+# Conservative editorial filter. Search phrases alone do not make a health article.
+HEALTH_WORDS = ("salud","dengue","epidemi","enfermer","medic","hospital","essalud","minsa",
+ "vacun","pacient","cirugia","cirugía","donantes","órganos","organos","sanitari",
+ "leptospi","malaria","deshidrat","golpe de calor","psicolog","prematur","atencion primaria",
+ "atención primaria","agua potable","calidad del agua","relaves","equipos inoperativos")
+PERU_SOURCES = ("andina","tvperu","rpp","peru 21","perú 21","diario correo","el buho",
+ "el búho","pachamama","evidencia.pe","infobae","el comercio per","willax","diario uno",
+ "buena pepa","investiga","radio uno","el regional de piura")
+FOREIGN_MARKERS = ("mexican","méxico","mexico","guadalajara","corrientes","neuquen",
+ "neuquén","machala","madrid","málaga","malaga","chihuahua","mendoza",
+ "argentina","cadiz","cádiz","fuerteventura","san luis","chaco")
+def normalized(value):
+    return "".join(c for c in unicodedata.normalize("NFD", value.casefold()) if unicodedata.category(c)!="Mn")
+def high_signal(item):
+    title=normalized(item.get("title",""))
+    source=normalized(item.get("source",""))
+    if any(x in title for x in FOREIGN_MARKERS_N):return False
+    health=any(term in title for term in HEALTH_WORDS_N)
+    weather=("senamhi" in title and any(x in title for x in ("lluvias","lluvia","inundacion","alerta","calor")))
+    environment=("relaves" in title and any(x in title for x in ("agua","rio","rios")))
+    if not (health or weather or environment):return False
+    # Health relevance PLUS a recognizably Peruvian media/authority source,
+    # or an explicit country/agency cue. Unknown sources stay in raw candidates.
+    return any(x in source for x in PERU_SOURCES_N) or ("peru" in title or "minsa" in title or "essalud" in title)
+HEALTH_WORDS_N=tuple(normalized(v) for v in HEALTH_WORDS)
+PERU_SOURCES_N=tuple(normalized(v) for v in PERU_SOURCES)
+FOREIGN_MARKERS_N=tuple(normalized(v) for v in FOREIGN_MARKERS)
 def parse_rss(xml_bytes, requested_date):
     root=ET.fromstring(xml_bytes)
     out=[]
@@ -70,8 +98,10 @@ def run(target_date, fetch=requests.get, delay=0.35):
         except (requests.RequestException, ET.ParseError, ValueError) as exc:
             errors.append({"feed":label,"message":str(exc)[:250]})
         if delay: time.sleep(delay)
+    candidates=sorted(items.values(),key=lambda x:x["published_at"],reverse=True)
+    selected=[x for x in candidates if high_signal(x)]
     status = "success" if not errors else ("partial" if succeeded else "failed")
-    return {"date":target_date,"checked_at":datetime.now(timezone.utc).isoformat(),"status":status,"coverage":"unverified_rss_discovery","sources_checked":succeeded,"sources_total":len(REGIONS)+2,"errors":errors,"items":sorted(items.values(),key=lambda x:x["published_at"],reverse=True)}
+    return {"date":target_date,"checked_at":datetime.now(timezone.utc).isoformat(),"status":status,"coverage":"unverified_rss_discovery","sources_checked":succeeded,"sources_total":len(REGIONS)+2,"errors":errors,"candidate_count":len(candidates),"review_status":"automatically_filtered_unverified","raw_candidates":candidates,"items":selected}
 def main():
     parser=argparse.ArgumentParser()
     parser.add_argument("--date",default=datetime.now(LIMA).date().isoformat())
@@ -81,10 +111,14 @@ def main():
     except ValueError:parser.error("Use YYYY-MM-DD")
     if target>datetime.now(LIMA).date():parser.error("La fecha no puede estar en el futuro")
     data=run(target.isoformat())
+    candidates=data.pop("raw_candidates",[])
     base=Path(args.output_root)
     dest=base/target.strftime("%Y/%m/%d")/"edition.json"
     dest.parent.mkdir(parents=True,exist_ok=True)
     dest.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    raw_file=dest.parent/"raw-candidates.json"
+    raw_file.write_text(json.dumps({"date":args.date,"checked_at":data["checked_at"],"status":"candidates_only","candidate_count":len(candidates),"items":candidates},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+
     index=base/"index.json"
     try:payload=json.loads(index.read_text(encoding="utf-8"))
     except (OSError,json.JSONDecodeError):payload={"days":[]}
@@ -97,7 +131,7 @@ def main():
     search_file=base/"search-index.json"
     try:
         old=json.loads(search_file.read_text(encoding="utf-8"))
-        existing={x["url"]:x for x in old.get("items",[]) if isinstance(x,dict) and x.get("url")}
+        existing={x["url"]:x for x in old.get("items",[]) if isinstance(x,dict) and x.get("url") and high_signal(x)}
     except (OSError,json.JSONDecodeError,TypeError):existing={}
     for row in data["items"]:existing[row["url"]]=row
     ordered=sorted(existing.values(),key=lambda x:x.get("published_at",""),reverse=True)[:8000]
