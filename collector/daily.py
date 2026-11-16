@@ -93,6 +93,16 @@ def main():
     payload={"updated_at":data["checked_at"],"days":sorted(days.values(),key=lambda r:r["date"],reverse=True)}
     index.parent.mkdir(parents=True,exist_ok=True)
     index.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    # Small rolling searchable index until PostgreSQL full-text search is enabled.
+    search_file=base/"search-index.json"
+    try:
+        old=json.loads(search_file.read_text(encoding="utf-8"))
+        existing={x["url"]:x for x in old.get("items",[]) if isinstance(x,dict) and x.get("url")}
+    except (OSError,json.JSONDecodeError,TypeError):existing={}
+    for row in data["items"]:existing[row["url"]]=row
+    ordered=sorted(existing.values(),key=lambda x:x.get("published_at",""),reverse=True)[:8000]
+    search_file.write_text(json.dumps({"updated_at":data["checked_at"],"limited_to":8000,"items":ordered},ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+
     print(json.dumps({"status":data["status"],"records":len(data["items"]),"errors":len(data["errors"]),"date":args.date}))
     # Never claim completeness; task fails if all sources fail.
     return 2 if data["status"]=="failed" else 0
