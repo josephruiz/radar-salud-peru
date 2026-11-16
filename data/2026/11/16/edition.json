@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-16",
+  "checked_at": "2026-11-16T21:33:54.548204+00:00",
+  "status": "partial",
+  "coverage": "unverified_rss_discovery",
+  "sources_checked": 21,
+  "sources_total": 27,
+  "errors": [
+    {
+      "feed": "Áncash",
+      "message": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22%C3%81ncash%22+salud+OR+%22%C3%81ncash%22+dengue+OR+%22%C3%81ncash%22+hospital%29+when%3A2d&hl=es-419&gl=PE&ceid=PE%3Aes-419"
+    },
+    {
+      "feed": "Cajamarca",
+      "message": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Cajamarca%22+salud+OR+%22Cajamarca%22+dengue+OR+%22Cajamarca%22+hospital%29+when%3A2d&hl=es-419&gl=PE&ceid=PE%3Aes-419"
+    },
+    {
+      "feed": "Huancavelica",
+      "message": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Huancavelica%22+salud+OR+%22Huancavelica%22+dengue+OR+%22Huancavelica%22+hospital%29+when%3A2d&hl=es-419&gl=PE&ceid=PE%3Aes-419"
+    },
+    {
+      "feed": "Junín",
+      "message": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Jun%C3%ADn%22+salud+OR+%22Jun%C3%ADn%22+dengue+OR+%22Jun%C3%ADn%22+hospital%29+when%3A2d&hl=es-419&gl=PE&ceid=PE%3Aes-419"
+    },
+    {
+      "feed": "Tacna",
+      "message": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Tacna%22+salud+OR+%22Tacna%22+dengue+OR+%22Tacna%22+hospital%29+when%3A2d&hl=es-419&gl=PE&ceid=PE%3Aes-419"
+    },
+    {
+      "feed": "Ucayali",
+      "message": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Ucayali%22+salud+OR+%22Ucayali%22+dengue+OR+%22Ucayali%22+hospital%29+when%3A2d&hl=es-419&gl=PE&ceid=PE%3Aes-419"
+    }
+  ],
+  "candidate_count": 81,
+  "review_status": "automatically_filtered_unverified",
+  "items": [
+    {
+      "id": "babc10dd17c0d5833822",
+      "title": "Lima: paciente oncológica denuncia falta de pastillas en el Hospital Rebagliati de EsSalud - RPP Noticias",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSkFUcnpibjFWYW5DdUFadjJkV2JRQXhsRl82WkRkenNweUhfVjZscEpMbndKVG9XMzYxdEJZSW1hTmhOOEk4OWE3N0RhVjlfT1cyQlIwZU9BNWo4cE5ocE5FU05jQWNEQU9DVGZqQlpqSFNZT1ZnTVVubVBaWWdIZFVySnpUQTBROHc2bUxiWXJnWHVreEtiWEVnTkJ3RXlNOUgwNUZ5WTNlckRFY0hXbnBQWndVYmFQdkJqakZOY1RzbFB0ZGUtc0JjYmsyLVFJQ1pBN2Nvc18yMzJRTG1zV0hB?oc=5",
+      "published_at": "2026-11-16T16:07:56-05:00",
+      "region": "Lima",
+      "category": "noticia",
+      "source": "RPP Noticias",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "03269c6255dd5a974acd",
+      "title": "Dengue supera los 105 mil casos en Perú y alertan sobre riesgos ante El Niño - Diario Correo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeU15TXZaT0E5RGtwVjA1Q3NXd0Y2YUlUU21WdWVpSG9aYXM4OUprOFdfOC13b1pDUU1mTGQ4UWVwT1pSOHU0LVYtZy15QTRqMmUwd0g5QTV4cnFxak9ReFJjV2ZGZUUtaHV5TWdHdUs4QkhtY1NUMXRfQjNiZUhpRm1uLUtBSDRXTVM3alhyX1RDVENhTHFMRjFOUUhnV0thOElJSUw3VnZtaEhudndkeXR6N194d9IBygFBVV95cUxQYVBmRUlwaG5Cc0ZtQzVrbjR5c3pDZEJtRXQ5V0NrQlliVFJFQWtKaTVtUU1pNzQ1SkZpQUFVWmFsb01yX1VlVnpNUjFock9Pd1RQeEd1dXRHRmZISGY5b0ZMRWlGd25iZEhLdGNuWlBiVmZOU1NGalJUaXpJYzJPQzduaDd3eDhsaGxydXQ4YmJIYnRVa1ZodDFNR3BVbjk4d1RIbXVHNDU5elJ1NkViNE1UdXpSOTZrRXVTOTd0RU1xbG9ISlBEaGR3?oc=5",
+      "published_at": "2026-11-16T14:54:27-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Diario Correo",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "8f74ec8744c96907b060",
+      "title": "Presupuesto 2027: Minsa advierte que reducción de recursos afectaría compra de equipos para detectar y tratar el cáncer - RPP Noticias",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSTVpa0E2Z3hlUDJJVWZTYXJHTG9JQzZhZGc5UnpEajdJQ0tDMHhvLXVLN092ZHR5b1pwcW8yU25MTEpWZjdROUhwUW1vOFZsSzVmZWxLUDNERV94cU4zOGhPOS01T0hTRW93NnFrbEw4TThBV2xhelFXcmkwcGxYcGNka3BlRlRucEd6R1d1amc3c0p3REFDUlZnbnpyZmxWR1BzdjM3Sm04SjJhMXNuLVVIVlFacWc5cWVCRFc2MnNMVlZJdHAyZG93anVoS3AtMlpYM3BpMzJIcmJaTVlMN1p5eUc1Uzc0ZDA1WEVzZnQtcEJacDI2Tw?oc=5",
+      "published_at": "2026-11-16T14:51:45-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "RPP Noticias",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "efeb2e62adaecc238ecc",
+      "title": "Contraloría: centros de salud de Tumbes carecen de pruebas para diagnosticar el dengue - Agencia Andina",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX3RKU095M3MyZjZBbVVXbFFrbXV3cWlZVmMySWtTNUY5TlRGalEyeHdvMXRTdHExQTNHWVkzZ1FOeThwZktRS3lDcTlXeTNTMW5WdmFuU2tSUk54RUpMS25DQjNjR0pJbzE5T1R5ZUh1WWEwWktkLXBoR2M2dF9RY0FWblA4ZzFFQjhjQkJvNnk5U1YyRFlDVHpzNkZ4UDJHM3l3cms0YnZGTXhTUkNhdGhaT2NWSDEwY194VA?oc=5",
+      "published_at": "2026-11-16T14:29:44-05:00",
+      "region": "Tumbes",
+      "category": "noticia",
+      "source": "Agencia Andina",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "54f5fc240b9a790b5087",
+      "title": "León XIV cerró su gira sudamericana con una emotiva despedida en Perú y una prueba de salud superada - Perfil",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRTlQVjJTMFh2anVwb1RBSnAyUDRHcm5ocTlPSjEzTUdiMjA3YXo1RGRreGtTbkxZSDZ6ZTlEM05QMFlYM0lzX2Y3Vmh1aGd4QTE3blI5NnNvUWdCNGhYUnh0MVhHdHpqaU1LdXRYb0J2ZG55VXRCNEJPeVJwVVc5bzdkZ0xCNHJFVWgtUjNfN0lDSDdIaHFWNmwtVWlOQmVQTk9Wdk5LWVlyRmhsbnFqeGR2NGdiLWh0enl5b0RibFhKY2d4UU85ZldQUS00NlNSOUJFNVg1Zmc5bU1VcGc?oc=5",
+      "published_at": "2026-11-16T14:11:34-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Perfil",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "8aa86b2a23406b1ae669",
+      "title": "Hospital Sergio E. Bernales inicia etapa de cimentación tras culminar excavación localizada - tvperu.gob.pe",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVGVrOTBZVVU4MjJTWnhtVkNuU1ZqejlETVFiQW0zYUVValk5bE8xZ3Vhc3RUR2xGZ1pLc1JuV052b0Y0MDhMV3laMmJhcV90STlfV1cwOWtaVEFLUzNSenByUmVjTzBydXE4eWs5TGhKdlBPMnUxOEFpSkNMbUpsQkd5M3NZS191ODNwdzU1QlVkQUZrcExyUWhnenJpLUdjZTl4WTZWNUFuOF8tclN2VW1jVWFYQUh3eFJtMjF3VQ?oc=5",
+      "published_at": "2026-11-16T07:45:00-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "tvperu.gob.pe",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "2b340fbaf312ee8c005b",
+      "title": "Napoleón Becerra: heridos en accidente son trasladados a hospitales de Lima - tvperu.gob.pe",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaUVvLXVFcjdDR1pBSjJ5Y2JWTGNvR2RfVWFxQ21LWFlPUDR4cFhtUnlMSGNRNmFSM3NFeVBXSnBjd05DTnpWd3hyeWc3M2VDcEFpaHhyS3c1X3ZidW5rNDA1NGx4MTJmQldlM0xLekZjZC1OVk16ZWZmQ3BlS3JiQ2dXVmRtVkFOc1hLU2N2emRKc2l4cU1KWE54UnVqMFJhODFVSEdNTWttTF93dENjcWF6dFg5SmRDVGc?oc=5",
+      "published_at": "2026-11-16T04:48:47-05:00",
+      "region": "Lima",
+      "category": "noticia",
+      "source": "tvperu.gob.pe",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    }
+  ]
+}
