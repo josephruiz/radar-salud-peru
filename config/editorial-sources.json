@@ -1,0 +1,100 @@
+{
+  "editorial_policy": "Priorizar evidencia primaria, corroboración, independencia y relevancia sanitaria. Ningún medio es infalible; no copiar artículos completos. Las preferencias no sustituyen verificación.",
+  "peru_media": [
+    {
+      "name": "Salud con lupa",
+      "url": "https://saludconlupa.com/noticias/",
+      "priority": "high",
+      "kind": "health_investigative"
+    },
+    {
+      "name": "La Encerrona",
+      "url": "https://laencerrona.pe/",
+      "priority": "high",
+      "kind": "independent_news"
+    },
+    {
+      "name": "Hildebrandt en sus trece",
+      "url": "https://www.hildebrandtensustrece.com/",
+      "priority": "high",
+      "kind": "independent_news"
+    },
+    {
+      "name": "La Lupa",
+      "url": "https://lalupa.pe/",
+      "priority": "high",
+      "kind": "regional_news"
+    },
+    {
+      "name": "Infobae Perú",
+      "url": "https://www.infobae.com/peru/",
+      "priority": "high",
+      "kind": "news"
+    }
+  ],
+  "international": [
+    {
+      "name": "Medscape en español",
+      "url": "https://espanol.medscape.com/",
+      "priority": "high",
+      "kind": "clinical_news"
+    },
+    {
+      "name": "OMS",
+      "url": "https://www.who.int/es",
+      "priority": "high",
+      "kind": "primary"
+    },
+    {
+      "name": "OPS",
+      "url": "https://www.paho.org/es",
+      "priority": "high",
+      "kind": "primary"
+    }
+  ],
+  "primary_peru": [
+    {
+      "name": "MINSA",
+      "url": "https://www.gob.pe/minsa"
+    },
+    {
+      "name": "CDC Perú",
+      "url": "https://www.dge.gob.pe/"
+    },
+    {
+      "name": "SENAMHI",
+      "url": "https://www.senamhi.gob.pe/"
+    },
+    {
+      "name": "ENFEN",
+      "url": "https://www.gob.pe/imarpe"
+    },
+    {
+      "name": "INDECI",
+      "url": "https://www.gob.pe/indeci"
+    },
+    {
+      "name": "El Peruano",
+      "url": "https://diariooficial.elperuano.pe/Normas"
+    }
+  ],
+  "briefing": {
+    "peru_target": 6,
+    "international_target": 3,
+    "legal_target": 3,
+    "priority_professions": [
+      "medicina",
+      "enfermeria",
+      "ingenieria biomedica",
+      "farmacia",
+      "salud publica",
+      "tecnologia medica"
+    ],
+    "rules": [
+      "No rellenar cupos con artículos irrelevantes",
+      "Etiquetar sin verificar",
+      "Cambios legales solo con texto oficial",
+      "Registrar impacto por profesión como análisis, no como hecho confirmado"
+    ]
+  }
+}
