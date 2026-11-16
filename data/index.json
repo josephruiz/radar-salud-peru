@@ -1,1 +1,10 @@
-{"updated_at":null,"days":[{"date":"2026-11-15","count":0,"status":"sin_datos"}]}
+{
+  "updated_at": "2026-11-16T00:24:33.685675+00:00",
+  "days": [
+    {
+      "date": "2026-11-15",
+      "count": 70,
+      "status": "success"
+    }
+  ]
+}
