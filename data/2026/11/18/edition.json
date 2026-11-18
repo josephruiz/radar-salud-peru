@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-18",
+  "checked_at": "2026-11-18T13:07:45Z",
+  "status": "partial",
+  "coverage": "curated_primary_sources_previous_24h_no_peru_verified",
+  "sources_checked": 3,
+  "sources_total": 3,
+  "errors": [
+    "No se identificaron notas peruanas del 18 de noviembre con enlace directo y corroboración suficientes para esta edición matinal.",
+    "Los cinco documentos de origen fueron publicados el 17 de noviembre; fecha de edición 18 de noviembre."
+  ],
+  "candidate_count": 5,
+  "review_status": "source_checked_editorial_unreviewed",
+  "items": [
+    {
+      "id": "oms-obesidad-20261117",
+      "title": "La OMS impulsa nuevos compromisos para prevenir y controlar la obesidad",
+      "url": "https://www.who.int/japan/news/detail-global/17-11-2026-leaders-commit-to-accelerate-action-on-obesity-prevention-and-control",
+      "published_at": "2026-11-17T12:00:00Z",
+      "region": null,
+      "category": "noticia",
+      "source": "OMS",
+      "origin": "Fuente institucional consultada; resumen editorial; publicación de origen 2026-11-17",
+      "review_status": "unreviewed",
+      "summary": "La OMS informó el 17 de noviembre sobre un llamamiento internacional para acelerar las medidas de prevención y control de la obesidad. La iniciativa destaca la necesidad de políticas públicas y cooperación entre países."
+    },
+    {
+      "id": "oms-quimicos-endocrinos-20261117",
+      "title": "Nuevo informe OMS–PNUMA examina los riesgos de sustancias que alteran el sistema hormonal",
+      "url": "https://www.who.int/publications/m/item/9789240126879",
+      "published_at": "2026-11-17T12:00:00Z",
+      "region": null,
+      "category": "noticia",
+      "source": "OMS / PNUMA",
+      "origin": "Fuente institucional consultada; resumen editorial; publicación de origen 2026-11-17",
+      "review_status": "unreviewed",
+      "summary": "La OMS y el PNUMA publicaron una evaluación científica sobre sustancias químicas con capacidad de interferir en funciones hormonales. El informe revisa la evidencia sobre exposición, posibles efectos sanitarios y vacíos de conocimiento."
+    },
+    {
+      "id": "oms-cuello-uterino-20261117",
+      "title": "La OMS advierte grandes brechas en el acceso a pruebas de detección del cáncer de cuello uterino",
+      "url": "https://www.who.int/brunei/news/detail-global/17-11-2026-countries-expand-cervical-cancer-screening-and-treatment--bringing-elimination-closer",
+      "published_at": "2026-11-17T12:00:00Z",
+      "region": null,
+      "category": "noticia",
+      "source": "OMS",
+      "origin": "Fuente institucional consultada; resumen editorial; publicación de origen 2026-11-17",
+      "review_status": "unreviewed",
+      "summary": "La OMS estimó que tres de cada cinco mujeres de 30 a 49 años nunca se habían sometido a pruebas de detección del cáncer de cuello uterino. Destacó experiencias de países que amplían el acceso a pruebas del VPH y tratamiento oportuno."
+    },
+    {
+      "id": "ops-influenza-20261117",
+      "title": "La OPS publica una alerta sobre influenza estacional y otros virus respiratorios",
+      "url": "https://www.paho.org/en/epidemiological-alerts-and-updates",
+      "published_at": "2026-11-17T12:00:00Z",
+      "region": null,
+      "category": "alerta",
+      "source": "OPS",
+      "origin": "Fuente institucional consultada; resumen editorial; publicación de origen 2026-11-17",
+      "review_status": "unreviewed",
+      "summary": "La OPS incluyó el 17 de noviembre una nueva alerta epidemiológica relativa al inicio de la temporada de influenza y otros virus respiratorios en el hemisferio norte. El documento está registrado en su portal oficial de alertas."
+    },
+    {
+      "id": "ops-hongos-20261117",
+      "title": "La OPS registra una alerta epidemiológica sobre recolección y consumo de hongos silvestres",
+      "url": "https://www.paho.org/en/epidemiological-alerts-and-updates",
+      "published_at": "2026-11-17T12:00:00Z",
+      "region": null,
+      "category": "alerta",
+      "source": "OPS",
+      "origin": "Fuente institucional consultada; resumen editorial; publicación de origen 2026-11-17",
+      "review_status": "unreviewed",
+      "summary": "El portal oficial de la OPS registra una alerta del 17 de noviembre sobre riesgos vinculados a la recolección y consumo de hongos silvestres en las Américas. Se remite a la alerta institucional sin extrapolar casos o cifras a Perú."
+    }
+  ]
+}
