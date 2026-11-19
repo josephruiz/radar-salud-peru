@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-19T01:13:22.512001+00:00",
+  "updated_at": "2026-11-19T13:34:45Z",
   "limited_to": 8000,
   "items": [
+    {
+      "id": "editorial-20261119-ram-ops",
+      "title": "OPS advierte aumento de resistencia a antibióticos para infecciones graves en las Américas",
+      "url": "https://www.paho.org/es/noticias/18-11-2026-ops-alerta-sobre-aumento-resistencia-antibioticos-utilizados-para-tratar",
+      "published_at": "2026-11-18T12:00:00-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "OPS/OMS",
+      "origin": "Comunicado original OPS, 18 de noviembre de 2026; resumen editorial",
+      "review_status": "unreviewed",
+      "summary": "La OPS informa que, según datos de vigilancia de países participantes, la resistencia a carbapenémicos aumentó entre 2015 y 2024 en bacterias como Klebsiella pneumoniae y Escherichia coli. Pide fortalecer laboratorios, prevención de infecciones y uso responsable de antimicrobianos."
+    },
+    {
+      "id": "editorial-20261119-sarampion-ops",
+      "title": "OPS pide reforzar vacunación y vigilancia frente a brotes de sarampión en las Américas",
+      "url": "https://www.paho.org/es/noticias/17-11-2026-ops-insta-paises-intensificar-esfuerzos-para-detener-brotes-sarampion-avanzar",
+      "published_at": "2026-11-17T12:00:00-05:00",
+      "region": null,
+      "category": "alerta",
+      "source": "OPS/OMS",
+      "origin": "Comunicado original OPS, 17 de noviembre de 2026; resumen editorial",
+      "review_status": "unreviewed",
+      "summary": "La OPS informó que Bolivia, México y Estados Unidos perdieron su estatus de eliminación del sarampión tras documentarse transmisión endémica sostenida. La organización recomienda cerrar brechas de vacunación, mejorar la detección y responder oportunamente a los brotes."
+    },
+    {
+      "id": "editorial-20261119-influenza-ops",
+      "title": "OPS publica alerta por influenza estacional y otros virus respiratorios en el hemisferio norte",
+      "url": "https://www.paho.org/sites/default/files/2026/11/2026-nov-17-phe-alertaepi-influenza-vsr-es-final.pdf",
+      "published_at": "2026-11-17T12:00:00-05:00",
+      "region": null,
+      "category": "alerta",
+      "source": "OPS/OMS",
+      "origin": "Alerta epidemiológica original OPS, 17 de noviembre de 2026; resumen editorial",
+      "review_status": "unreviewed",
+      "summary": "La alerta de la OPS recomienda reforzar la vigilancia integrada de influenza y virus sincitial respiratorio, preparar los servicios ante posibles incrementos de demanda y priorizar la vacunación de acuerdo con las recomendaciones nacionales."
+    },
     {
       "id": "4f98a04023b8a4842179",
       "title": "Congreso de la República iluminó de morado su frontis en homenaje a los niños prematuros del Perú - Congreso",
