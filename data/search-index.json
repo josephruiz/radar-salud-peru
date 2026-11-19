@@ -1,7 +1,151 @@
 {
-  "updated_at": "2026-11-18T20:34:03.966739+00:00",
+  "updated_at": "2026-11-19T01:13:22.512001+00:00",
   "limited_to": 8000,
   "items": [
+    {
+      "id": "4f98a04023b8a4842179",
+      "title": "Congreso de la República iluminó de morado su frontis en homenaje a los niños prematuros del Perú - Congreso",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMHUwWWlsb0pHQ3Y0LTR6MEwycmRMOXo3ejB2enlzWm9Eb0w3bTJ6N0psNlRfc1pxS3MwVk5KVDJSanFWWUtILWR1NWgtbGQtUy02RW5paVBScHRlRjNrMi02YlBiTXpNQ0xEUmtqUWU2eGJZUy1kaktzZEFMLUpIZWZPb3hWSWxXREQzZld0TVlZMTBSa0VsbTUyNkhPMjIxRGNYdFUxZXRQSnVzcHNxcUduS2lYUEZVdFc1b1NiSHlIZ3g2cUZBQjNScTN1YjZpZEZHMWJ2RFZSOXNfMy1yUzZWdGJ1VXlSc0E?oc=5",
+      "published_at": "2026-11-18T19:47:39-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Congreso",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "c5fae45ad37533788a16",
+      "title": "Huisa y Zegarra exponen sus propuestas para enfrentar la crisis de salud, corrupción y el FEN - Evidencia.pe",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdC11VHFPSVBtS3kxX08wSlRsSlA2dmtRSlM1alQ1WGV2NUFkbU90ZEdBV3piS0xpNG5kN3Zkd09EUjRyRzFQdldYb0pTXzlmcXN0dEZaa0NjU2dTNldBckgyTW8tNzcxUTJoM29ONDFwYzRrb1RoSnhvQWRGUFFnMjNSNE1jSHhRenpKMkFfellDM0RYY2pwZWN3Q1BsS1AzdF9UTExZaktBVkZ1N05uQ0JTMGTSAboBQVVfeXFMT0FsZmZydWs4SXpOSnJDdXowNk1PNGlzVjFHbnJrM2FWcHdTRHhTX0ZHb1dfZXRuN3RuMFBTVHJRamh0bG1uMjR3bmQ2Vk51anV0N1IxQ1NHTEl3NjRMTkRxaW01Z2Z6eW9hSjlHRGlSQ1kyWkhVNnVudXhGbEV4ZFptY0FDWWpJdTE5dWFkNkRQVkl4dGRWb2pIeWdVVW85TWhOOE5LSkN0aWZwTGhMQklxM3FJU3VWTTh3?oc=5",
+      "published_at": "2026-11-18T19:34:58-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Evidencia.pe",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "a1d49794e75bad165b5d",
+      "title": "Huisa y Zegarra exponen sus propuestas para enfrentar la crisis de salud, corrupción y el FEN - Evidencia.pe",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQWxmZnJ1azhJek5KckN1ejA2TU80aXNWMUducmszYVZwd1NEeFNfRkdvV19ldG43dG4wUFNUclFqaHRsbW4yNHduZDZWTnVqdXQ3UjFDU0dMSXc2NExORHFpbTVnZnp5b2FKOUdEaVJDWTJaSFU2dW51eEZsRXhkWm1jQUNZakl1MTl1YWQ2RFBWSXh0ZFZvakh5Z1VVbzlNaE44TktKQ3RpZnBMaExCSXEzcUlTdVZNOHfSAboBQVVfeXFMT0FsZmZydWs4SXpOSnJDdXowNk1PNGlzVjFHbnJrM2FWcHdTRHhTX0ZHb1dfZXRuN3RuMFBTVHJRamh0bG1uMjR3bmQ2Vk51anV0N1IxQ1NHTEl3NjRMTkRxaW01Z2Z6eW9hSjlHRGlSQ1kyWkhVNnVudXhGbEV4ZFptY0FDWWpJdTE5dWFkNkRQVkl4dGRWb2pIeWdVVW85TWhOOE5LSkN0aWZwTGhMQklxM3FJU3VWTTh3?oc=5",
+      "published_at": "2026-11-18T18:39:02-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Evidencia.pe",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "e0e124abbc2e1eb0f294",
+      "title": "Essalud opera con éxito a arqueóloga de tumor que amenazaba su audición - tvperu.gob.pe",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNmlmUXloQUU2NUt4SjZaUnZsbmFyOWxZNy13M2J6OWJoOUtfcjdtQnpBaVo1dGhpb2QtNERuaDZMb3VVTTZybnJkY0NOaWVUcGRpSUgteDBxTGpVQVE2RmRsLUFIUTB3N2UtM1NJLUZaZ0tHOXdHWmtJY0lMOS1zTWktQVkxNkkxV1BJNFhYWnBnbGhOdlBTUWpHWFRwZV9adTBYSVFSZGVCOUd4X0FMWGpvM21RZw?oc=5",
+      "published_at": "2026-11-18T18:28:00-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "tvperu.gob.pe",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "bd0d79e128e513daecdf",
+      "title": "Jóvenes amazonenses de Perú reclaman educación, salud y protección de sus bosques, tras visita de León XIV - Religión Digital",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS3FxM1J3cmtyMW1VV3FpQk9ENUJqVDVCNW9NMWdGclotbWx5bDNrcHAyWTN6cEJJMktLcU5iUzZNS3UyeEl6NVhacmJnRDdSd1hkMEx3ZlRNQlBiaHdwbVJVV1UxV3RyRUc2RVFWZ3JJclVlcEszamdvMU9HbXljSlp3dm9Wdmlkb1hJUUZsTk9SUFNaUHBPdG9yVDZObEIwVnlrWjRzVmd0NDdrUlZBSWxyTkJFTnVBSnpkX9IBwgFBVV95cUxNcll4ZXZmbWFYQVU5UURrak9XcjNRSVdSQjZqY1UzdHY5bzdnbkJmLU1DcW4tcU1KV3FTSzdhQXZ3YjNrb0J0Rll6MTJna1BNTjVsTU5SSHZPWUZiZjVRdVNGa1NUcEwzZU96UTdQd3BSNTlwVXpmYm1heTNVMkVzZHFvSVFGc2dlai1oZmtkaXRTRkNGS1FTcnFZWG5Ga29UYnM0Yk5xdmFpRzJId0RfcHZXYmlJU2JTZ2NJVnN0MEF4Zw?oc=5",
+      "published_at": "2026-11-18T18:13:51-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Religión Digital",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "b78289a7b5684a00dfdc",
+      "title": "Dengue supera las 100 muertes confirmadas en Perú mientras el Minsa advierte riesgos por el fenómeno El Niño - Perú Informa",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPemM3Z0h3czNQTkgxVlBscUZUM2dReklVWFA3SF9xMWFUR3BzOTBpSFNFTV9pZU5jYmhPbUI4TUJidUNHcG9EVmxoYm42azcwamM5V1VtMVBFRlM3X1phSHZFWFB2SG9oQTUwYmVVSnVTYzItOGlnU01ZdWhlcDRPb3lCNHY5WEVMaG93cjZTZFFXNXAwUDBtS0EyY1pTN08tblEzTGtmOFF6alhRSFpqMXliX3pUaGtTZzZkTHZlVGJTSTJvblFERVR6cmJEZ0s0UnU4?oc=5",
+      "published_at": "2026-11-18T18:09:43-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Perú Informa",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "f76ff5cd741f4c11559f",
+      "title": "Pronis evaluará acciones para la continuidad de proyectos hospitalarios en Puno - Agencia Andina",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUVdMeHJHN3kwSmVrdjRMeWF1R2UyLUNHX1RGbm9MeUc3dHhvM3YxYkpkREdUMU5MbVE3RnlNZC1fWmtET3lTZlFZb3JhQTBNeW11cWxZX2Zjam13a243STMzei1KS1RmeXB5VFhhblltNURmcWdNeEQwNE9aQTZ4WVZTOEprZGEyRldRRFg0Q0Z4VGRXMDRsNC1ab0FXLVM2bnc0elN5MzMzMVFLdDdkczZBY1BRcFUw?oc=5",
+      "published_at": "2026-11-18T18:03:00-05:00",
+      "region": "Puno",
+      "category": "noticia",
+      "source": "Agencia Andina",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "bc7847b6a07c68d3ba37",
+      "title": "Dengue supera las 100 muertes confirmadas en Perú: Minsa alerta por Fenómeno El Niño - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1VTWHV6SFZJSnRPZkVheXFCakpWZlpFNDRKUjRSekdvbHp1cndhclpZUnM4d2lPYWpaejZyS0N5b1IyYUFwQmxOSmhfNmJUMElSN0h4NWNjUFNDMkpKTVUwR0RnOTNwanVxMGl3SW5zUkotTE1BWUNZYllLeGgwbi1EZHlwcDFyZjVJUk1wRldXTG5pM2ExRVNBX2c0bE9fRGYyV3NnaDNJdHhNcGZ5NGFCUE04dVB5RUpPaDJjT0Rzd9IB3AFBVV95cUxPSzVRcXFTdUl5S0Vqd09iSnA5ZHoweTNHT3FZNDV6M2VKOHl0QXhMV1ZZajE2UGF2U2RjLXFFWG1uYWpnWWhQVWJIZkRrRUp6T19IZFpyeUxaS1JXSWxTQlRXeDQxNm5GSkxJOFc5T2hweGYxeHNRTzhlQUt3Ym5tNDBRNmgzU215eDNMeEpTUDAxS2taUndHMUZwbTUzVEZTMDJtaHVCMmxaTjRYa0lPZk1tdzJlQVZBeG9rcEdLaWNmSmJ5SDNfeDQ3RHZDdk1TNmdiOHFMNEpFYVFE?oc=5",
+      "published_at": "2026-11-18T17:31:00-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Infobae",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "c3ac2e0a62b2008b5fd0",
+      "title": "Dengue supera las 100 muertes confirmadas en Perú: Minsa alerta por Fenómeno El Niño - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSzVRcXFTdUl5S0Vqd09iSnA5ZHoweTNHT3FZNDV6M2VKOHl0QXhMV1ZZajE2UGF2U2RjLXFFWG1uYWpnWWhQVWJIZkRrRUp6T19IZFpyeUxaS1JXSWxTQlRXeDQxNm5GSkxJOFc5T2hweGYxeHNRTzhlQUt3Ym5tNDBRNmgzU215eDNMeEpTUDAxS2taUndHMUZwbTUzVEZTMDJtaHVCMmxaTjRYa0lPZk1tdzJlQVZBeG9rcEdLaWNmSmJ5SDNfeDQ3RHZDdk1TNmdiOHFMNEpFYVFE0gHcAUFVX3lxTE9LNVFxcVN1SXlLRWp3T2JKcDlkejB5M0dPcVk0NXozZUo4eXRBeExXVllqMTZQYXZTZGMtcUVYbW5hamdZaFBVYkhmRGtFSnpPX0hkWnJ5TFpLUldJbFNCVFd4NDE2bkZKTEk4VzlPaHB4ZjF4c1FPOGVBS3dibm00MFE2aDNTbXl4M0x4SlNQMDFLa1pSd0cxRnBtNTNURlMwMm1odUIybFpONFhrSU9mTW13MmVBVkF4b2twR0tpY2ZKYnlIM194NDdEdkN2TVM2Z2I4cUw0SkVhUUQ?oc=5",
+      "published_at": "2026-11-18T17:31:00-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Infobae",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "cc07c5ff735f2fd58696",
+      "title": "Hazaña médica en Cajamarca: especialistas del Minsa realizaron compleja operación a bebé de 11 de meses - tvperu.gob.pe",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0V4MmJpUTl4V3lBbEFiWE5EQ3FTRmlyTDJTRzQ4NUg4QVdtV0p0aF9mdkFqUWZTbHZoREE2X0gzQ3BqWHUwaUozVm4yTS1DX0FmZEF2UXk2bi1jeDl6Rko4LTBINlJBdEMwemJWOWZaam42M090V1ZrZXN4RHFIZHFGa2xwc2w2UHJ5NW1JSkh6V25OU0w3Z2VzWUNoeUNWMFAyVXg3NkpFWTFQNFdkal96enBPUmdTMWdYQXg3OTc?oc=5",
+      "published_at": "2026-11-18T16:54:00-05:00",
+      "region": "Cajamarca",
+      "category": "noticia",
+      "source": "tvperu.gob.pe",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "7cc3d3d3d7d2fb9a9d87",
+      "title": "Dengue en Perú: hospitales vulnerables ante el fenómeno El Niño - La República",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOekM2NFpURWZzdGFlRWNpdmpOdV9zeHFqajdyaFBFSkZJa19RaUYwZzhOdmNlMzFMdUhHZUJ0ZDZZTEp2ckpubVFIM005VXM0UC1BbHJndWRJOTJZdm43YlNydGlPekFaQ3dMdi1yNWE3dkd3eFhFOGdIVVN5WVRxTEluQjV1YWY3SnI5UzBrSVNUYVFXcjhDZE83RTJaWjRiMGpESm81SHdYaF85YlAtazBvak5pb2RPUzZOaHpaQ3AyVThUQ3VaNldQb1p5NHNHM2dlVS1vM0lKRUlyeGhGTklZWmxtWHhFdjlKd3NmTQ?oc=5",
+      "published_at": "2026-11-18T16:22:36-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "La República",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "de36cb77800dcc799b28",
+      "title": "🔴🔵 #ExitosaTeEscucha 🎤 | En diálogo con Exitosa, César Munayco, director del Centro Nacional de Epidemiología del Minsa, informó sobre el incremento de casos de dengue en el norte del país, asociado a las altas temperaturas y al fenómeno El Niño. Ade - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ01XYy1iMzVBcC05c0F0bzYySktGczdqTlBvTjlOVmdUbmVVUy1Ebm5rYjE3ZW9xbmFudExudEVfa1FHXzAtZ0FneWhwM2wwaUxpLWhwYldXN0hZRGlzT1BZLVEzMnhmc3h2R1VHLTZ5VXNXSFVKRGVOeEI0WkZ1UmZvNklEMzNUTllHRnlBV0ZVbmlKMlhfN1NMMzVUZ1dyZUVXb3o5Rm9OcGFKTnNJUXZqOWFDcm1leU9HOXhlWVpnamxFOTluMFZvVjZTRDhsQkpTdFJyX3JSQWpOYXE3eHhkX3RYVmI2UXAw?oc=5",
+      "published_at": "2026-11-18T16:15:43-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Facebook",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
     {
       "id": "11b3749524f942f7f2b4",
       "title": "El dengue está fuera de control y La Libertad es la región con más contagios: las provincias que concentran los casos - Buena Pepa",
@@ -22,18 +166,6 @@
       "region": "Tumbes",
       "category": "noticia",
       "source": "Agencia Andina",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "de36cb77800dcc799b28",
-      "title": "🔴🔵 #ExitosaTeEscucha 🎤 | En diálogo con Exitosa, César Munayco, director del Centro Nacional de Epidemiología del Minsa, informó sobre el incremento de casos de dengue en el norte del país, asociado a las altas temperaturas y al fenómeno El Niño. Ade - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ01XYy1iMzVBcC05c0F0bzYySktGczdqTlBvTjlOVmdUbmVVUy1Ebm5rYjE3ZW9xbmFudExudEVfa1FHXzAtZ0FneWhwM2wwaUxpLWhwYldXN0hZRGlzT1BZLVEzMnhmc3h2R1VHLTZ5VXNXSFVKRGVOeEI0WkZ1UmZvNklEMzNUTllHRnlBV0ZVbmlKMlhfN1NMMzVUZ1dyZUVXb3o5Rm9OcGFKTnNJUXZqOWFDcm1leU9HOXhlWVpnamxFOTluMFZvVjZTRDhsQkpTdFJyX3JSQWpOYXE3eHhkX3RYVmI2UXAw?oc=5",
-      "published_at": "2026-11-18T14:52:25-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "Facebook",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -87,10 +219,22 @@
       "summary": ""
     },
     {
+      "id": "650f2e2f72bb98a4885a",
+      "title": "Defensoría del Pueblo supervisa servicios de salud y educación en comunidad nativa Palestina - Defensoria del Pueblo Peru",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTNtZW5zR2ROVmYzekcxeWRibklPMHZPRFBwYmxFRmhzWTJnNTl4VFVlTUR0VmZ2NG1pSDFRbUptalFlVEFiTDdBelBHaGhFMUtROGo2UlB3anRma2RLZzAxeUFGZDRScUJORzFQckZJdzNET0hNN2piMXZrNkJ1TzlLcEMxeG91X0s3aUs4eTB6emt6ekhYWEplR01ITlE0Sm5pS2FmRTZCM21Id1ViekVocXBFZjZ6THAyeHBEWDQ?oc=5",
+      "published_at": "2026-11-18T12:31:57-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Defensoria del Pueblo Peru",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
       "id": "feb48bbf0b9d40e0fb83",
       "title": "Melgar sufrió incidente previo a duelo clave ante Alianza Atlético: 8 jugadores presentaron infección estomacal y 5 fueron trasladados al hospital - Infobae",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNUEFfVXpObDdTNUZzR2ZlY0pRcmxhUVJJV0prdVhXcTVkZmVJOG9qMTJ4YUZJbDZuTjNLdGo4ZXRQNXdJaWVoTmFkOFktMF90c0h0VURieG94M3l0NkVEbUFsQ05ZWFA0VHFDY1ZsYmNKYkZHNmoxZXhNamZ5a05HYkozSENOb2R6VTdONXNMTEg2OWNiM1NWbXZnUnJqM2tadXJsS0xNQ3k4YklxRzN2SVljWjJLWE1Uem80OGUzYndPZnJTcTBVQUo2bnc2eC15dktWWDZFd2RoZWJoaHdsLVQwd1J1VnhmUWIzOEJwWGEycHpCbnVZOUxOZnFQeVhQak9GN2NRZzVnR2lLUzhjd2Z1UW1PRU93bFk3QjNUNWnSAbsCQVVfeXFMTmV6aUd6eG1EamRYMUhJZXVkUDNTZ01lUHNmSFBqaWlsRHRBeXlBanlwbnBZdTdpbjBndXBMYmZ3YmZ2YllvWjVaV3l1WEpzb0hTSEMzNmhYM2o2YS03b2NRWm9vazdnWW9VT015NUdZSHdPY080d3BxUVIyM1Zna1IwblQxMElWLXBVRzhEa3hvWUdHLTRLMnE3ekFqODYxMDVnQWNSaEFUV2prSG1YSEUwUkRvU2FTZHVDbE9qV2ZUazBLTE1DVmctdlVQTUxyR0VRbnRzMkNQQ3Q4Q19DUjV0aVpvVERna0hiVEJEclpBbTExc0htaUVoVVQ0VFhrMkp4Yk5fRGN4UkltSjdLLURWbTdJX0FuRTM3a2xtRmxlTXpJSmhjY0EzTndPMVpvVjAtQ0ZkeEphRTRJ?oc=5",
-      "published_at": "2026-11-18T11:23:00-05:00",
+      "published_at": "2026-11-18T12:19:00-05:00",
       "region": null,
       "category": "noticia",
       "source": "Infobae",
@@ -147,6 +291,18 @@
       "summary": ""
     },
     {
+      "id": "5f78d329f87dccae5dae",
+      "title": "Apurímac: Aymaraes contará con moderno hospital valorizado en más de S/ 27 millones - Peru Construye",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYmdrM0tNZWp2di1GNjUzbS1GTlpST3o5VlZqMG4xWGE0bHBtMERSdnNucUVRa3E4ZFhMeTJTRnRvMWZ5aHQ1QVlQM2JQSDRHaVVFVWFNQVNwek5XQXdRTXpKVVdqRjBhdmdsRnJyalViQzlJTzZWYV9Fb2g2UE5UblJuS0hfYVpWa0ZjODh6SmNTTEZqNEY0YVhpb180VEkzNzRrMTh2WDZzSzQ?oc=5",
+      "published_at": "2026-11-18T09:46:32-05:00",
+      "region": "Apurímac",
+      "category": "noticia",
+      "source": "Peru Construye",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
       "id": "d05538aace013fbf290e",
       "title": "Residentes de hospitales públicos marchan por aumentos salariales y más presupuesto: “La hora de trabajo está a menos de $6.000” - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQN255YjhsZjJQa2lwUGlBNTlvaTg4U2ZxU292S3p1N3M0MDVYRUY2SzlHZWNZUkhSemJoYTdSZVVadURxOUJvSkdRZlFudUVpZThwNl90MzlCWVdGVXV5b2ZtQ2FoYnNMNlBSZVFKUVdxMHBpN2dYZEJJSmRoLTlncENkVVpHRFdvUTZIQ2NKenJtal9ZZ3JmbEloa2t2UVkyaWZiTU0zRVJfMjRVSnpXYnkxYnNRRkt1ZnZPRFFFUnpXOEtWLTFRYnUwLVVEY0pCc0pvRWNlVEZxQVpNczcyNW1BckRjeFJFQjJ3Z0kxM2pXNkVmUURxc1pBOXnSAZcCQVVfeXFMTkptdzV4MmotZmNSRHlYemM4clB5eTlrZDVNWmpnLUZHZ092TDVPLW00Q0hfLUtpNHM3TmdGR1VhQzdDYlZuQmJHVGthd0FBWmRQdTMtOWdwN0lZc3p1RF81N2FQOVF3ektRejgzS05vbUUzX2NCM3hXMHZUNVduLWJPc2VqRENUQUhyT2dyVUVmc0lRaFJHajg1SDg2aUZwSzFWeDA1UXZ0SEx2amRFeHo5eDVELWp4SDAtUFdmT1dhbDdMd2dILWM1X3hCeEtJR2lqSHAwM3NjZnFmOU9oNERkWjdFRFhfNXkwTDJRRERSbS1ZakJzZ3ZYM3RsWFRtT0xBa2x0MVlLVXIzZk9WQjRYaEhBdGpN?oc=5",
@@ -166,6 +322,18 @@
       "region": "Cusco",
       "category": "noticia",
       "source": "Evidencia.pe",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "1b862ec31aab853a6279",
+      "title": "Minsa instalará hospital de campaña con hasta... - Panamericana TV",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajU2RWNYczRyZ1pmQ2JGX0VjUHp0d0NOZTVoUDgtSmVaSm5PZmVtcXF4blBUZ082STBsV29xODVodG9UMDZsWUFsNV9zVi1fUDMxcEJkZ01JQ2x3alNZYUlrM0RMVWFUQTdiTkRxbHNCM1hrWEpiZVU2TV9EZ2J1TnlmVjVtUkRDdTYtaHVxWllYQVEyVUJyZnl3M3RRTkpNaXZ0ZklNLXVUd9IBrwFBVV95cUxNSjRuNGhZTkZ4cmhqT2pSaTV2YmFjdk5RQk9nbjRvTlp1NG93ME9tWnYyc2pUVUM2dy1JTEFJWURtWnRONl92SWJOTlRYQV90c0Rzb3phazg2MzhwRXpaYWxOeFBQbFREaC0xWUlfOEY1YmxPMWdoVE1hbHk2dENBVUkwTGdNWUVPUzV6M3k0TFFNX0g4ZzczWm9sYW1iNXQ3WjFVMWVubW85a2pvUXVN?oc=5",
+      "published_at": "2026-11-18T08:19:51-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Panamericana TV",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
