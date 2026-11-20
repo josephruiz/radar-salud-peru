@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-20T01:16:28.987184+00:00",
+  "updated_at": "2026-11-20T13:52:32Z",
   "limited_to": 8000,
   "items": [
+    {
+      "id": "editorial-20261120-1",
+      "title": "Bogotá reúne a países amazónicos, incluido Perú, para reforzar la vigilancia de zoonosis emergentes",
+      "url": "https://www.paho.org/es/noticias/19-11-2026-bogota-acoge-taller-tecnico-segunda-asamblea-general-rade-para-fortalecer",
+      "summary": "La OPS informó que representantes de países de la Amazonía y el Darién, incluido Perú, trabajaron del 17 al 19 de noviembre en detección temprana, intercambio de información y respuesta coordinada ante amenazas zoonóticas. El encuentro revisó el plan de acción 2026–2028 de la red RADE.",
+      "category": "noticia",
+      "source": "OPS/OMS",
+      "region": null,
+      "published_at": "2026-11-19",
+      "origin": "Fuente primaria OPS/OMS; resumen editorial de la fuente consultada",
+      "review_status": "unreviewed"
+    },
+    {
+      "id": "editorial-20261120-2",
+      "title": "Chile y OPS lanzan formación en telesalud para fortalecer la atención primaria",
+      "url": "https://www.paho.org/es/noticias/19-11-2026-opsoms-chile-ministerio-salud-lanzan-nuevo-curso-telesalud-para-fortalecer",
+      "summary": "La OPS y el Ministerio de Salud de Chile anunciaron un curso gratuito para equipos clínicos y triagistas que gestionan solicitudes de atención primaria a distancia. Según la OPS, la plataforma chilena de telesalud registra más de 3,1 millones de usuarios y 14,5 millones de atenciones.",
+      "category": "noticia",
+      "source": "OPS/OMS",
+      "region": null,
+      "published_at": "2026-11-19",
+      "origin": "Fuente primaria OPS/OMS; resumen editorial de la fuente consultada",
+      "review_status": "unreviewed"
+    },
+    {
+      "id": "editorial-20261120-3",
+      "title": "Bolivia inicia una evaluación piloto de integración de servicios de salud en Yacuiba",
+      "url": "https://www.paho.org/es/noticias/19-11-2026-yacuiba-inicia-primera-experiencia-piloto-evaluacion-madurez-redes-integradas",
+      "summary": "La red de salud de Yacuiba comenzó una evaluación de madurez con apoyo técnico de la OPS. El piloto examinará coordinación entre establecimientos, capacidades de gestión y continuidad de la atención para orientar mejoras en las redes integradas de servicios.",
+      "category": "noticia",
+      "source": "OPS/OMS",
+      "region": null,
+      "published_at": "2026-11-19",
+      "origin": "Fuente primaria OPS/OMS; resumen editorial de la fuente consultada",
+      "review_status": "unreviewed"
+    },
+    {
+      "id": "editorial-20261120-4",
+      "title": "OPS destaca modelo intercultural de formación sanitaria de la escuela Tekove Katu en Bolivia",
+      "url": "https://www.paho.org/es/noticias/19-11-2026-opsoms-renueva-su-compromiso-fortalecer-capacidades-escuela-tekove-katu-modelo",
+      "summary": "La OPS reafirmó su cooperación con la escuela Tekove Katu, que forma personal de salud de comunidades indígenas del Chaco boliviano. En 2026, 137 estudiantes de 90 comunidades recibieron formación para identificar y notificar amenazas de salud pública, según la organización.",
+      "category": "noticia",
+      "source": "OPS/OMS",
+      "region": null,
+      "published_at": "2026-11-19",
+      "origin": "Fuente primaria OPS/OMS; resumen editorial de la fuente consultada",
+      "review_status": "unreviewed"
+    },
     {
       "id": "fb3d5210d85ccfd739a8",
       "title": "Hospital María Auxiliadora fortalece lucha contra el cáncer - El Comercio Perú",
