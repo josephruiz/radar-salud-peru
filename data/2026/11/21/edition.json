@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-21",
+  "checked_at": "2026-11-21T13:50:05Z",
+  "status": "partial",
+  "coverage": "editorial_selection_primary_sources_not_independently_verified",
+  "sources_checked": 4,
+  "sources_total": 4,
+  "errors": [],
+  "candidate_count": 4,
+  "review_status": "unreviewed",
+  "items": [
+    {
+      "id": "editorial-20261121-01",
+      "title": "Perú y OPS acuerdan fortalecer atención primaria y respuesta sanitaria",
+      "url": "https://www.paho.org/es/noticias/20-11-2026-director-ops-reafirma-cooperacion-con-peru-para-fortalecer-sistema-salud",
+      "published_at": "2026-11-20T12:00:00-05:00",
+      "region": "Lima",
+      "category": "noticia",
+      "source": "Organización Panamericana de la Salud (OPS)",
+      "origin": "Publicación original OPS, 20-11-2026; síntesis editorial sin revisión independiente",
+      "review_status": "unreviewed",
+      "summary": "La OPS informó que su director concluyó una visita oficial a Perú en la que abordó cooperación en atención primaria, enfermedades no transmisibles, preparación ante El Niño, dengue, sarampión y transformación digital. La nota distingue compromisos y líneas de trabajo de resultados ya ejecutados."
+    },
+    {
+      "id": "editorial-20261121-02",
+      "title": "Lima reúne a especialistas de 21 países para evaluar tecnologías sanitarias",
+      "url": "https://www.paho.org/es/noticias/20-11-2026-mas-200-especialistas-21-paises-participaron-xvii-encuentro-redetsa",
+      "published_at": "2026-11-20T12:00:00-05:00",
+      "region": "Lima",
+      "category": "noticia",
+      "source": "Organización Panamericana de la Salud (OPS)",
+      "origin": "Publicación original OPS, 20-11-2026; síntesis editorial sin revisión independiente",
+      "review_status": "unreviewed",
+      "summary": "Más de 200 participantes asistieron al XVII Encuentro de RedETSA, celebrado en Lima. La reunión abordó decisiones basadas en evidencia, evaluación de dispositivos y tecnologías de alto costo, inteligencia artificial y acceso equitativo a innovaciones sanitarias."
+    },
+    {
+      "id": "editorial-20261121-03",
+      "title": "OPS publica análisis de oportunidades y riesgos del aprendizaje por refuerzo en salud",
+      "url": "https://www.paho.org/es/noticias/20-11-2026-inteligencia-artificial-para-salud-nueva-publicacion-ops-analiza-oportunidades",
+      "published_at": "2026-11-20T12:00:00-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Organización Panamericana de la Salud (OPS)",
+      "origin": "Publicación original OPS, 20-11-2026; síntesis editorial sin revisión independiente",
+      "review_status": "unreviewed",
+      "summary": "La OPS presentó un documento sobre aplicaciones potenciales del aprendizaje por refuerzo en decisiones clínicas continuas y gestión de recursos. Subraya la necesidad de datos adecuados, supervisión humana, validación continua, gobernanza y prevención de sesgos antes de su implementación."
+    },
+    {
+      "id": "editorial-20261121-04",
+      "title": "Honduras refuerza almacenamiento y trazabilidad de medicamentos tras detectar brechas",
+      "url": "https://www.paho.org/es/noticias/20-11-2026-honduras-pasa-diagnostico-accion-para-mejorar-gestion-medicamentos",
+      "published_at": "2026-11-20T12:00:00-05:00",
+      "region": null,
+      "category": "internacional",
+      "source": "Organización Panamericana de la Salud (OPS)",
+      "origin": "Publicación original OPS, 20-11-2026; síntesis editorial sin revisión independiente",
+      "review_status": "unreviewed",
+      "summary": "La Secretaría de Salud de Honduras, con apoyo de OPS, inició medidas de mejora en inventarios, almacenamiento, distribución y cadena de frío. La OPS reportó capacitaciones a 147 trabajadores entre julio y octubre y señaló que falta comprobar los resultados en establecimientos."
+    }
+  ]
+}
