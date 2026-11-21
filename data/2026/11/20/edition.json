@@ -1,14 +1,86 @@
 {
   "date": "2026-11-20",
-  "checked_at": "2026-11-20T20:23:52.585247+00:00",
+  "checked_at": "2026-11-21T00:48:07.358438+00:00",
   "status": "success",
   "coverage": "unverified_rss_discovery",
   "sources_checked": 27,
   "sources_total": 27,
   "errors": [],
-  "candidate_count": 61,
+  "candidate_count": 93,
   "review_status": "automatically_filtered_unverified",
   "items": [
+    {
+      "id": "a0a9724243a7fcbb1a3f",
+      "title": "EsSalud incorpora modernos equipos médicos por S/2.2 millones en la Red Sabogal - Agencia Andina",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS01pVXdTLVVCQVBiSkFjNGE2LTYwV3JVVk5UOTJyVW1FODBCb1ppT2N1Zmgtb0xZUk4xbXlaeHM3R00yQ3h2MXdQVG9uaXJDS1RGTmVmYnZ5VUVUQXNuSURaVVljc24xM3Zmd3hBRElKdnRzUmpBLVR4NVRQVDVCRGpaeENaczFJanIyMWw3NTh4OHZyZjVjaUFwYVRHSzFUUUZYSkVvbVE1amVJa3M5Z3VROV9XVHFU?oc=5",
+      "published_at": "2026-11-20T18:52:00-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Agencia Andina",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "003f26850440df9f06fc",
+      "title": "Defensoría del Pueblo alerta que hospital Jorge Reátegui de EsSalud en Piura no ejecuta plan ante El Niño y carece de pruebas para dengue - La República",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQVRrNnJrOGhjcUFJOUxiMmk1ZUpqQl96cW9aTWVpWVkwek5yaG4ybGlZOFRzU3RCYzhpazdDZWRWcjdmSGFHZ3FTVk5yQXZMSVhrRzk4RGNfYTB3TGRaQ1NDbkpFMkJ0M2JzVVlLdU1FRC15TnZ0OW1Kd25jSVQ1VURWOHNaT2twYzBlYlo5dXA4b1JkNXNTakEyM2k1X3l5Y1k3SGhmMWVDU0Z3a2FCc2RQN0NJQi1LS1BqRUpIa1FpaWl5eTRGUmF2NmxBd2lvTkZVOTFFUElpMDhPZ2xiV2ZqNlVvYkdDYTVjR0dpckNuUS11UXp4MUhDLXhsa29KeTNTWlVSajJvYThUNG5fc1BKNHBpQdIBmwJBVV95cUxPSDRxalhjdUZUWFFxd2V5YXRxM0Vyc2Foekw4VXJvRS1YWW41dm1HMk9hamVGS21HNFpreUE2REpoS0F1ZTRRd2pFdEt3b0cyWVp6OTQxVFdmNXhCcklXak5ESk5FLTVheVg1c29uMGpFcnE5WUZsVUoyQWhOeVhWYWs1clhBUXNQNlR2VjE0cGZxOTJBMTdFUm9LRkgyU3Z4NVg3MzhDbVlnajl1QTZpRFFvei1jNFJXSEZzMHFuNDFKc1p4MzZsNzdpSm1LVDdpTWtVbDJ2d1NSRDFmYUdtZnhkVnFOME1MNjZoOUdQOHFSWlBjaFhoM1FJbEppRXZGVkozOXdIYU1UcVQ3TWcxNFhRU0p4OERmZktv?oc=5",
+      "published_at": "2026-11-20T17:48:01-05:00",
+      "region": "Piura",
+      "category": "noticia",
+      "source": "La República",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "b8615dbd9c6220409def",
+      "title": "Director de la OPS reafirma cooperación con Perú para fortalecer el sistema de salud y responder a prioridades sanitarias - Pan American Health Organization (PAHO)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQekVIY1VwUXA5Y3Y5UHpUMHFKUTF6akIzcTBnWHJZbW5xaENBWWw2RTNlZnRSV1Ezemt2XzJYTU9UTDVBekZQQ05vYUJHY3VHYkliM1pvcEdyM2xPa1pCUS1veDR5MTVFRU9HY2h4Ulkwal9uVkI2aFlMc29zZmozQ1ZQLXlSZHJUNUI2MlJLSXVzNk5tTWk4WDVyYVN2cHhXNnc3X1hXZU9jZGxPcUNvRloyWThxS2c?oc=5",
+      "published_at": "2026-11-20T17:38:03-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Pan American Health Organization (PAHO)",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "c976fb73b8165662eba0",
+      "title": "Cusco: Minsa entrega el nuevo hospital Antonio Lorena después de 13 años de espera - Agencia Andina",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUdLc0gxNUYyVzFJOExBN2syTVNwcmM5M05iTFFFclE3aHRyTnJHb2JZM1lYeFBIc1BkRXFoV3lZcUNfQWRyQ2hyQ3QtTzlKMVRTSnlobnNaMXlyUmw0ZGljSWdCWGRMbm5sdncxeC1jWmxOcGhYVE0tXzZuZ1cwT2pzclVGaFRQcVA5MktOc01jQVhGbDBQNUlJWVRaUERkY3hQSHRWRWY5MUVmOFpQS29MRllaZDBPN29n?oc=5",
+      "published_at": "2026-11-20T17:27:00-05:00",
+      "region": "Cusco",
+      "category": "noticia",
+      "source": "Agencia Andina",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "a9f645c3df81fb888efa",
+      "title": "Piura: Marina de Guerra instala hospital de campaña trasladado por el BAP Paita para fortalecer atención médica ante El Niño - Diario UNO",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZXRKTzdGTWl3Y0hneGFQYURHbzZVeEF3YWdRT3paOHJQcnBBSkpRbzE3YnZieU9PRVcwNkZfQW9CRE9NWmJ0VDM4ODBlcmgtOGRNUVBiQzlsVnVMaG1fLTc1Zmh0b0lXS1pfTlBhWGNEMFpQanIyNnVpVmpDNk5hU2NtWDFZU3JQQ0R4WHNGai1YcEhDS0lVNjBHSlpPcnA0aUtnV2RWd25aeHNfbk1jUVB3UEhjcnMtRVhIdDNqLXVFTFp5VnYzSER0Qlhoang4Y2R5d2NVd0RkMElCcTUzZWpRRTdoMG9pZ3AxTg?oc=5",
+      "published_at": "2026-11-20T16:59:17-05:00",
+      "region": "Piura",
+      "category": "noticia",
+      "source": "Diario UNO",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "2596105eb72c840080b6",
+      "title": "Lago Titicaca sigue descendiendo y pone en riesgo el agua potable de Puno - Evidencia.pe",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRmtVdDNGMTM3RHBDcWpSbDUwQVZIV1BrRFZGa2tTOEZIN1cxVXdlZTdXbDhNTS1TclZUM0ktR0xVMjQ2RkNSZzRNakRiMmNIN25oQ3RmbG5oNmtaMUp5UDBLOFJZRFNTX3I0S3VaWV9PZUdYeW5tVnowLVJlTlZFWkJB0gGHAUFVX3lxTE1va05xVUw2Sm1NYzRBbWI2cWFIbmc4V2duTmlfeUx5U1RFMzVuZGtLNHltVFVxLXRHalZSWEFGRTNRTEV0YWhQRzRnaVA1YVI3ZlFwY19tYmZJd3dTMTlNTGM0UzI2YUFVU29EcFVSa2RFc1FRT1FKYUFsRnd6Y21rdzJnRUVldw?oc=5",
+      "published_at": "2026-11-20T16:25:15-05:00",
+      "region": "Puno",
+      "category": "noticia",
+      "source": "Evidencia.pe",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
     {
       "id": "19d5bb5f7663aad6f3b7",
       "title": "Buque Hospital que enviará EE.UU. para atender emergencias durante El Niño llegará al Perú en enero, confirma embajador - RPP Noticias",
@@ -41,6 +113,18 @@
       "region": null,
       "category": "noticia",
       "source": "Facebook",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "e248b69c77cc890d5e54",
+      "title": "Dengue: Minsa implementará 30 unidades de vigilancia clínica para reforzar atención en 14 regiones - Perú Informa",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObm5fSHY3dlpMNEtwQ2JLai0zaFFnQm0teVVpb1ZRZ3hKV2VZdHRiZlFCMzl2MFc2MW9zMklRdTVBN182MVlwcDdIODhpelhXcjNjZG1NWXNlSjlKVzNSemVIckV4VzJVRXpxRkpIY09RZUk0S3pkSWVPRGVvRnVCa203eTNIR2FCX2JMU1p6Vi1YLWFySkhCS3JsR0EwaXBXVl8zODZSazFrWXJrY0hBLUpKREZ0WmZwLXotY1dwVlR4ZlhL?oc=5",
+      "published_at": "2026-11-20T12:41:05-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Perú Informa",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -94,18 +178,6 @@
       "summary": ""
     },
     {
-      "id": "e2437d41f0357aeba80a",
-      "title": "Exitosa Noticias. . 🔴🔵🚨 #EXCLUSIVO | En diálogo con Exitosa, la presidenta ejecutiva de EsSalud, Zulema Tomas, destacó la reducción de la demanda de atención en regiones y aseguró que se ha reforzado la capacidad de respuesta en zonas donde habí - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeEZocGE5X2d0dTNabXJzbnFMa0xwUHdDdm5LM1dBQzNFT2dTUEltekg0TndQMjhtbURDWERJYVhtVjQwZjVPdENTV1N2bkQ0MVZCNkNHV2ZDU0NJYTBJbXdFRmlkQXUzN1QzazhhQmtjZGNLVF9NYWZfY014b1NNb0VXSGM5ZTYxMVVUR0JQVmstOE00S1p5bmVCM0drWUZBYnhJS2VOZGRwTFB0Rk52TGZMT25ING1WLTNBN2JzQkd4R3BYMjVUczd5eTgxV0tNbGRza1FwbHVlWWNXZDVwa3huQ2xYQQ?oc=5",
-      "published_at": "2026-11-20T09:52:30-05:00",
-      "region": null,
-      "category": "noticia",
-      "source": "Facebook",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
       "id": "53fcdbbb5b67a223aed3",
       "title": "Perú supera los 112 mil casos de dengue y registra 150 fallecidos en lo que va del año - ATV.pe",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4d1FPaWIyQVhNX1gzOWhuazVIa2xYalNBZ2tYSmtDZ3lXYkRENS1RT0VFbjlkaWtlbG9XVVhxUFp4bXhpdHBueDZ0V0hmTlNIREUyVEFLTGxPd3F3Vm5LcDJpRXhTX2hQVWx1MV82UnhrMW8tTXhR?oc=5",
@@ -125,18 +197,6 @@
       "region": "Áncash",
       "category": "noticia",
       "source": "soltv peru",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "be5147df5cd3853ee35e",
-      "title": "Piura: Médicos extraen tumor de más kilos a una mujer de 45 años en Sullana - Diario Correo",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjJsUFMtWlc2UWd4QnduTk42MGNwMFAxUDk5Mkp1dVRUaDI2YXlBVlQ5cnZFVG9CMlo1WWw5elFWQ2hEd0xSMEwtUWNGUUtJVnE5STE0YzRZcmx0NW1MLW5pWlBGRmVNaEFnc3A5SElQZTFmRnVWR254YXRwYUVKMHRFMXctcXNlQWhLOUJma0pQWS10TjNHZFBfeXlmOGk5UTlnZ0lhT3p3d9IBvgFBVV95cUxNdjdlVzFvQmdjRE1Ka1VuZno3c0RzTGphd3p5SGFBMjlWbHBuYnVRRGc0aGozazBxb2Z6QTBMekVUNzJBeGFWSEZyY25FdUJJQUcxVGExdnNEUUpjV0Y5WEtLMUR1ZVBzZ0x0RExCc2dpbU5rYkg4TWxxMmx1SkNBXzBMZkhGR3ZZVDhEQzB0ZF9DanVieDFrVnpRTDk0ZXNNOHFxMGdGTnJVa2t3c185b3ZSNUE3QUktMHFqN09R?oc=5",
-      "published_at": "2026-11-20T07:56:29-05:00",
-      "region": "Piura",
-      "category": "noticia",
-      "source": "Diario Correo",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
