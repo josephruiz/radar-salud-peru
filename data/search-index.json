@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-21T23:47:55.524392+00:00",
+  "updated_at": "2026-11-22T08:55:23-05:00",
   "limited_to": 8000,
   "items": [
+    {
+      "id": "coen-16277-20261122",
+      "title": "Actualización oficial del sismo de Junín: 15 personas heridas, una fallecida y 29 establecimientos de salud afectados que siguen operativos",
+      "url": "https://portal.indeci.gob.pe/wp-content/uploads/2026/11/REPORTE-COMPLEMENTARIO-N.%C2%BA-16277-22NOV2026-SISMO-DE-M-6.7-CON-EPICENTRO-EN-JUN%C3%8DN-JUNIN-10.pdf",
+      "published_at": "2026-11-22T08:20:00-05:00",
+      "region": "Junín",
+      "category": "alerta",
+      "source": "INDECI / COEN (datos COES Salud–DIGERD/MINSA)",
+      "origin": "Reporte oficial complementario N.º 16277; corte 22/11/2026 08:20 h; pendiente de revisión editorial humana.",
+      "review_status": "unreviewed",
+      "summary": "El Reporte Complementario N.º 16277 de INDECI, actualizado el 22 de noviembre a las 08:20, consolida 15 personas lesionadas y una fallecida por el sismo de magnitud 6.7 del 20 de noviembre en Junín. El COES Salud–DIGERD/MINSA registra 29 IPRESS afectadas que permanecían operativas: 18 en Junín, 6 en Huánuco, 1 en Lima Provincias, 3 en Lima DIRIS Centro y 1 en Lima DIRIS Este. El informe señala que la evaluación de daños continúa; las cifras corresponden al corte indicado."
+    },
+    {
+      "id": "digemid-142-2026",
+      "title": "DIGEMID dispone retirar un lote de guantes quirúrgicos tras un resultado crítico de control de calidad",
+      "url": "https://www.digemid.minsa.gob.pe/Archivos/Alertas/2026/ALERTA_142-26.pdf",
+      "published_at": "2026-11-19",
+      "region": null,
+      "category": "alerta",
+      "source": "DIGEMID / Ministerio de Salud",
+      "origin": "Alerta oficial DIGEMID N.º 142-2026, emitida el 19/11/2026; pendiente de revisión editorial humana.",
+      "review_status": "unreviewed",
+      "summary": "La alerta 142-2026 comunica el retiro y la destrucción de todas las unidades de un lote de guantes quirúrgicos estériles de un solo uso, luego de obtener resultados no conformes en los ensayos de ausencia de agujeros y características físicas. El lote identificado es 20250502QX. La comunicación está dirigida a profesionales e instituciones sanitarias y advierte que podrían quedar unidades de ese lote en el mercado. La observación corresponde al lote señalado, no a todos los lotes del producto."
+    },
+    {
+      "id": "who-eb160-8-20261120",
+      "title": "La OMS presenta un balance mundial sobre enfermedades no transmisibles y políticas de salud",
+      "url": "https://apps.who.int/gb/ebwha/pdf_files/EB160/B160_8-en.pdf",
+      "published_at": "2026-11-20",
+      "region": null,
+      "category": "internacional",
+      "source": "Organización Mundial de la Salud (OMS)",
+      "origin": "Documento oficial EB160/8, fechado el 20/11/2026; pendiente de revisión editorial humana.",
+      "review_status": "unreviewed",
+      "summary": "El documento EB160/8, preparado para la 160.ª sesión del Consejo Ejecutivo de la OMS, resume avances y brechas en la prevención y el control de enfermedades no transmisibles. Señala que estas enfermedades causaron 45 millones de muertes en 2023 y que el riesgo de mortalidad prematura descendió de 18 % en 2015 a 17,2 % en 2023, un ritmo insuficiente para alcanzar la meta mundial de 2030. También describe acciones sobre atención primaria, acceso a medicamentos y actualización de intervenciones costoefectivas. Es un informe de seguimiento institucional, no una nueva guía clínica."
+    },
+    {
+      "id": "nature-s41467-026-78602-w",
+      "title": "Un atlas global de dermatología digital identifica vacíos de representación en bases de imágenes clínicas",
+      "url": "https://www.nature.com/articles/s41467-026-78602-w",
+      "published_at": "2026-11-21",
+      "region": null,
+      "category": "internacional",
+      "source": "Nature Communications",
+      "origin": "Artículo científico de acceso abierto en versión aceptada, publicado el 21/11/2026; pendiente de revisión editorial humana.",
+      "review_status": "unreviewed",
+      "summary": "Un artículo de Nature Communications reúne 1,1 millones de imágenes de 29 conjuntos públicos de dermatología para analizar la cobertura de los datos disponibles. Los autores informan que los tonos de piel Fitzpatrick V–VI representan el 11 % de las imágenes y los pacientes pediátricos el 2,3 %. El trabajo identifica vacíos de representación y redundancia en los conjuntos de datos; no mide directamente la precisión clínica de un sistema diagnóstico concreto. La publicación indica que esta es una versión aceptada de acceso anticipado que puede recibir ajustes antes de la versión final."
+    },
     {
       "id": "ddbafa5f16a0d2bc1b62",
       "title": "Minsa transfiere cerca de S/1.8 millones para reforzar la lucha contra el dengue en Lima Metropolitana - tvperu.gob.pe",
