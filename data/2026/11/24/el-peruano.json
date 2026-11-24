@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-11-24T17:28:23.948601-05:00",
+  "source": "https://diariooficial.elperuano.pe/Normas",
+  "status": "failed",
+  "coverage": "not_verified",
+  "message": "La vista HTML no garantiza cobertura completa; revisar la fuente dinámica.",
+  "items": []
+}
