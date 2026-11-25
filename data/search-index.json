@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-11-24T22:28:22.803455+00:00",
+  "updated_at": "2026-11-25T03:02:37.994622+00:00",
   "limited_to": 8000,
   "items": [
+    {
+      "id": "762ced653d0937c333c4",
+      "title": "Perú registra 148 muertes por dengue y los contagios aumentan un 214% respecto del 2025 - Prensa Libre",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU2JvRC1IYk5wUmRjOURBX3M0NXJvZGctSndNMm1ndWRoRWdUanpsNC1RdDdPYWtySVJhOWR1Q3paLWFuV0hUVnFvUkZxLUZUR29EUEY3NWxhTjBnWjRGemRUTW03N2FQLWxfRnpRN2FCRmlLa1dDeDN2dWkzQ01YaGxKRnFOQzNZTTRwTk41MklTd3I2bG11d28zNVhrNERFeGV5UW5rZUZqbkx1cE41SmlwTGV3VTdDWXNWcTlJSzFHMFdIVk1FcU9wU0pYbkRM?oc=5",
+      "published_at": "2026-11-24T20:58:00-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Prensa Libre",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "252e9a207548a00e616c",
+      "title": "La particular estrategia de San Isidro para combatir el dengue: utiliza peces guppy que se alimentan de larvas de mosquitos - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMWZ5RzFUS1phNTZ0SkZMV3RTYlVSSF9JNXp3MkR6cFhmRW4zRkRrMy1ubGVYY1F2YllxN3psLVJKX0JWQ3BUMG5fdkR0UENHNzRNOVppYzZRSzdTY3JNbHZzV2VfbWNIbGd5Y00zQ1p0VFpBSmp1MW11V2NmblhCU0Q5bHRiYU96Y3BPTG5MYVlScDR2TnVLT2xFVjJ1X19iOXdmWTRoWWlBWHdMNzJ2S3VBYldHRlhSU195M3JpbGd3U3lVdFNmLXVvcWNJSWk1Y3NxdnNvTVdPbjRDbVN6blNJM0RrR09lQWw4eHB5RDdPRGI4NmfSAZACQVVfeXFMUE9FZzQ0SWZvSGxuM0VnUlZKUVdseE5YR2UzaXNlbkdUTy1hVnYtYWF1Wi13MHV3RmtSV244WFRIWTRka1Vack1kcnhEYlBLSDNCTWRyQlJ0ODYwZFI0NmVEa0JRMjNPRDlfRkt4aGZ0bDExUWhkbDh4dVZaVm5BMTZyZzh3cmw4VGFxZ0VSSmR0MWRTNllkMGV3VmZUdGdIUlU3dktHRFpmMmJmbGRnT0k5RkVBbmNFd3hQSkdWZDNDYzR2VG9wU08wdmpTd1JFOV9SWUZ0Tk5Md1k2TWljamNEUXlQWm9LeXFoVEZyLUlya21hV09hcFNmeklWY0xsX3U0a0tJLW51Q3U4dEZ3di0?oc=5",
+      "published_at": "2026-11-24T20:48:00-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Infobae",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "9b1880914a74a6e58b36",
+      "title": "Dengue en La Libertad: reportan más de 16 000 casos confirmados y 13 fallecidos - tvperu.gob.pe",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0ZoQzJvMnN3MHNtelNXRGVnMTcxbjVrd3dtTnNDQVdEblM4aUM1SnVqQ3drTng0RThkNlZvbzc0SkdQOTE3anVKd2M3MHljQTlEalhDaWlFaENlbkxUd3EwenFOVjRvUW4zN3FCV29TZ1BnZy1CUW9FTUJid1k0QzRrWnNTQ1R5bktYcXNYUXBNVGx6M1dxOExRTzRxakN3cS1nNDE4REFyblBrR2pJTGVkNlVURi1yUDdYUjJlS0hsdw?oc=5",
+      "published_at": "2026-11-24T20:34:00-05:00",
+      "region": "La Libertad",
+      "category": "noticia",
+      "source": "tvperu.gob.pe",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "0988764b0b3032784120",
+      "title": "Ministro de Salud impulsará la interconexión de los establecimientos de salud de Ica mediante la transformación digital - Diario UNO",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeDQtZjRvMmx3dDJXTnJiTHVuMlBYNFZDWkxRcC1yeDhxV1RxdmUzODFQV2VjbEZ1U0VQbU43ZGd6ckNWQUNtN1owZ1NjYWJkbXpwZ3N3YzkwVWtvazZoQmpoWjg4YXptZjM3WVhPUnFsTFBhaFNaSm40LXM2ckt4S0Z3REhvTnpTZF93cGVZNmVDU3ZQU0MwVlBpSnE2VjBlTkViV21nY2dqRlRxRjRiUjloczRyY1kwbEZKYTYzWnltTUlUTzQ5OVV6MmFXaFNYcFpYYkNXOEoxZmZrM3VQQ1AzRHdHNG8?oc=5",
+      "published_at": "2026-11-24T20:03:33-05:00",
+      "region": "Ica",
+      "category": "noticia",
+      "source": "Diario UNO",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "02bf0fd5263bd0efc147",
+      "title": "Defensoría del Pueblo exige atención permanente para garantizar los derechos de toda gestante tras supervisión en Hospital de Barranca - Defensoria del Pueblo Peru",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMTZCSmFlZjhsOS1jeEtSR3pfQ3lMQ2R5QXBCaEtSLXZpMWdUaUlYTlUyeWxVOThzV3k4OVNWVHZPNXV2MlF1SHBpcFphakZLVlFfM2REQkZUQ1VFT0JYYnl0QnFiQVdNRXFmVUZybnRxenBiMHdQT1o2Q2ZKNXkyU0t1dmVOZkV0REs0ekZpX0toZ1RKOS1kYXJCaUxVeVl3WVc4UHFzVmFRVTAzd2p3WFBQSGJWRHhyeENVVGhvZE5ocW1PajQ4RTZwMU9fX0FDTk9QWDFhZGZwam81eTVPYkxXUWdUTnZOeUZlOW1HOWJDeW11ZEdwSg?oc=5",
+      "published_at": "2026-11-24T19:57:33-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Defensoria del Pueblo Peru",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "5e8d73821e075fdd006f",
+      "title": "Cusco: Hospital Perú llega para atender a pacientes con citas pendientes - Agencia Andina",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV3pxRjlmMXZMUzFCM3hXS3d2MDBRWWtFYmJnZE1lV2Vxalc5dGo4ZlNRdXlIMFhvaHRVSXg4T0hOeTJsd3RhajhrYVBIUlhONVZWTjVJMko5YUd6WGFnZGdGYVhqaWJtdmVtUExmbTRhUmhzVk50d3JYWUNLRDRDSzB4MGN4d3l2R2UyeDVKSDlJYzRiNFpNQUJFYmZPSG40bjAwQ1F4NDN6dG4tUEZoRUdLQXQ?oc=5",
+      "published_at": "2026-11-24T19:34:16-05:00",
+      "region": "Cusco",
+      "category": "noticia",
+      "source": "Agencia Andina",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "17a6cd98c4e9a12f86a8",
+      "title": "Cajamarca: crédito suplementario permitirá continuar construcción de hospital de Chota - Agencia Andina",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUE5iWVB2M21JM0dpclBHMXdONFczZGRTZDJUbU5keW9PMkRQOXktd0d5cTExTXp0d1R4c3J4QmMzMFhpTUducU5xUS1jWGdxcFl0b25tTHE5QmROTUowSGFBbDRmWXdOMlF6ay0yb1huUUhWcVIzT1Y4VDJ5NVRDTkFVX2J0RVZjTU5hV2NjbDlXdFl5RU5QNS0yYzM0N0pxTVB1bVAxRldZbWp3MFdYajg2NWhGSVdzclZBR0NFOGRMWW8w?oc=5",
+      "published_at": "2026-11-24T17:58:52-05:00",
+      "region": "Cajamarca",
+      "category": "noticia",
+      "source": "Agencia Andina",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "7f939e669e34e6775813",
+      "title": "Alerta por dengue y El Niño: exigen al Minsa reporte urgente de camas UCI en hospitales del norte - Congreso",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVDlwSkJ5YTR4LXFQTm5jclp1Q2dfNmhBeVhWV0RzVXVpN1VqUzRMY0pqaGIteFJTQllXQ0pzeU9Oa0pvMG9RNzZKTUM4UWdUOXZ4ODF2QmY0ck5QY2hSWFhXR056LVFaanI1Q3lLM1NJLWNKUkNzU3RPcUhZaXF6eUFGc1c4c1F1bDdwMVNidHRqSXFfVnMxaU1VSE5QYWlQU0JsQVB5SWhDay1uaGNFTXphQ1hobGQ4eFh4S0FxcWpLaHBwTjM3NFIzS2xhSjZHVDJINklsYVlJd2d5VEhPZ3NsaTVfLVIy?oc=5",
+      "published_at": "2026-11-24T17:43:29-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Congreso",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "37882909518342b427e8",
+      "title": "Callao: mujer de 77 años con glaucoma espera una operación hace tres años en el Hospital Sabogal de EsSalud - RPP Noticias",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeThuSm5lVDJMZGVlbWttQmJHbzdYVWtiYUh4Qm9iZzlWdTk1VkV6SzZCSWZ1RlFicXg0X1ZtU1Z5UnFYMzQxaVhmekZUY25SS3F1SkdTclVIS3NWemwtSkJLZnB2TEdwR1g4MnY2RkRqclpmTldFSnZmRkYxWDRrdkxQaHBUTDUtUWtaQmdOUUpGOXYzbE9CTndLYmMydWNMSVlDM05XRVp6MkxtV21KajJlSkk3XzU0b2ZLek85V2dvTDVsNEM2a3NDN1J4cUpzd2dNdlliMmp0aVFHR0JXNDNJTU1pUjhLRFlPM25EX0ZyTmtJc3QzYQ?oc=5",
+      "published_at": "2026-11-24T17:26:11-05:00",
+      "region": "Callao",
+      "category": "noticia",
+      "source": "RPP Noticias",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
     {
       "id": "a353a2b556bdd9d98adc",
       "title": "Emergencia en Ancash y Lambayeque por el dengue: reportan 0 camas UCi disponibles por casos graves - Infobae",
@@ -64,7 +172,7 @@
     },
     {
       "id": "95ec79304552e3b53488",
-      "title": "Cajamarca: Crédito suplementario impulsa hospital de Chota - Peru Construye",
+      "title": "Cajamarca: Crédito suplementario garantiza continuidad de construcción del hospital de Chota - Peru Construye",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUWNtQ1piVVhwYVhlMzFsQ3lsNkY4Q3FMQmsxcmNFb0VsRklXNkNaYUtrN0JOamozTzFvTWxyeS1fNXB1M0x0UlZ6amhLQ0RJQ3lJS05nOUdfUWI4ckRBbGgyYVFwekhRVmZUQ3ctMk1oV0ZOaEFYclNZT1hlQkZJbTNfNlhmMjhVaVQ4U2ZpUElJdVUzNjRJTlFDcWIxRXp3S2QxWGdkZmdQNUJ1UDB1RHJ6TjFGeW43ZFA4RWVQWEV4b0w1Njdpdg?oc=5",
       "published_at": "2026-11-24T12:29:01-05:00",
       "region": "Cajamarca",
@@ -82,18 +190,6 @@
       "region": "Cusco",
       "category": "noticia",
       "source": "RPP Noticias",
-      "origin": "Google News RSS; fuente original sin verificar",
-      "review_status": "unreviewed",
-      "summary": ""
-    },
-    {
-      "id": "17a6cd98c4e9a12f86a8",
-      "title": "Cajamarca: crédito suplementario permitirá continuar construcción de hospital de Chota - Agencia Andina",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUE5iWVB2M21JM0dpclBHMXdONFczZGRTZDJUbU5keW9PMkRQOXktd0d5cTExTXp0d1R4c3J4QmMzMFhpTUducU5xUS1jWGdxcFl0b25tTHE5QmROTUowSGFBbDRmWXdOMlF6ay0yb1huUUhWcVIzT1Y4VDJ5NVRDTkFVX2J0RVZjTU5hV2NjbDlXdFl5RU5QNS0yYzM0N0pxTVB1bVAxRldZbWp3MFdYajg2NWhGSVdzclZBR0NFOGRMWW8w?oc=5",
-      "published_at": "2026-11-24T11:54:00-05:00",
-      "region": "Cajamarca",
-      "category": "noticia",
-      "source": "Agencia Andina",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
@@ -183,6 +279,18 @@
       "summary": ""
     },
     {
+      "id": "dac9324f7dbd79a018bc",
+      "title": "LA SALUD ANTE LAS EMERGENCIAS, columna de Iván Slocovich Pardo - Diario Correo",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeXBCOHhQZVB5MGpHcE1SOWc3cUdFQVJ2TXdIbzZJYXIxMURIcklQdjdMRnR6V19rY2JvU2Z5LUNLbDdSTTlQYnVhOVdCa25mT08xZ0tlNzhNcVlmMEZaSjV6MkVqSldvTWtOZ1dwY0dMTXZCYWYwSU5ITjVBLU5zdmRNRGVJZzFISXgyR1Blcjc2ZzRwT2FHelZqU3drbnUxcWIySWcyVHNwLXJpd2xhYXJzb0lBLTVL0gG4AUFVX3lxTE95cEI4eFBlUHkwakdwTVI5ZzdxR0VBUnZNd0hvNklhcjExREhySVB2N0xGdHpXX2tjYm9TZnktQ0tsN1JNOVBidWE5V0JrbmZPTzFnS2U3OE1xWWYwRlpKNXoyRWpKV29Na05nV3BjR0xNdkJhZjBJTkhONUEtTnN2ZE1EZUlnMUhJeDJHUGVyNzZnNHBPYUd6VmpTd2tudTFxYjJJZzJUc3Atcml3bGFhcnNvSUEtNUs?oc=5",
+      "published_at": "2026-11-24T07:32:19-05:00",
+      "region": null,
+      "category": "noticia",
+      "source": "Diario Correo",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
       "id": "86d190dee7f5bf9e5ef6",
       "title": "Ica: visita inopinada de supervisión al hospital Félix Torrealva Gutiérrez - Diario Correo",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjFQbmdvQ1N2Y1ZEOVFORXNtbl95blJOaDVvSk5Sb25mdVFvZ2xVeHJWUkpxRDN5RFgtQ1JHTWUyeUdGS1Awb0FnNmlvNnQxQlJubEdab255Yzk3WG1LcEFXVnZQeWRnaXFSU1JVd0hHVGtzQjNBdUtQY21iX3JfZWZ6NHRSTGttaktZRDEzT3ZsdUw0em9hYVlzbjZVdjJJZEtpMEc1YVZsT2lMRlBHaDh0amg1M21feFHSAc4BQVVfeXFMT25sc0E1anYtWDAwQVpYTFlldGQ1anRxSEpPVDV1TFI3dU1qQUxnNk1tYUNaaF8yVGpBdHZSUzg2TGhRbGdnRllVZDFlQWNZNnRPRXBfc1JCSHFXVzFoSHlaOTYzSVpvcnFwbFI2N0J1cEhXUVQ2YUhyOWg5QnBYVjVVbFVZRGRoYk5Wb09vM3BhM1NnQk1ycE54WEh2Z3FYNFI2QkFMSWFCbC1PbmoySUdVOWV6aEEwbVFQVEs4Q3ZCZnQ1eDZTWXpiVndnM2c?oc=5",
@@ -214,6 +322,18 @@
       "region": "Huánuco",
       "category": "noticia",
       "source": "Tu Diario Huánuco",
+      "origin": "Google News RSS; fuente original sin verificar",
+      "review_status": "unreviewed",
+      "summary": ""
+    },
+    {
+      "id": "749b06d7d939865eaf43",
+      "title": "Personas intoxicadas en Ayacucho son derivadas a diversos hospitales tras su arribo a Lima - tvperu.gob.pe",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaG5iZ2Zsd05oUWtMTFNmUks4LUdkSUotTmhuMGNNLXBQNktLYXh3cGNWTWp6azhqMzA5Nm1Ja0FmVktKQURKcEh6d0FxWEVHbnBnbVFna29yZmkxMml4NmNIOUtxZjRza0phLW4zSmI4c0V0b3J1QTRWbV9oYTFTZ0FVNmh1eHljS3hzODdjSU94ak94MU9DZFpPTVRPQWhkNnQ2bDBlN1ZoNE9ya24xbmY2RlVIeUJad1JoWg?oc=5",
+      "published_at": "2026-11-24T03:52:51-05:00",
+      "region": "Ayacucho",
+      "category": "noticia",
+      "source": "tvperu.gob.pe",
       "origin": "Google News RSS; fuente original sin verificar",
       "review_status": "unreviewed",
       "summary": ""
